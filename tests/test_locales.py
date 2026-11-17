@@ -152,7 +152,7 @@ class MarketLocaleTests(unittest.TestCase):
             source = (DIST / locale.lower() / "index.html").read_text(encoding="utf-8")
             self.assertIn(f'<html lang="{locale}"', source)
             self.assertIn("Découvrez", source)
-            self.assertIn("Jeu de puzzle de fruits", source)
+            self.assertIn("jeu de puzzle de fruits", source)
             self.assertIn("Foire aux questions", (DIST / locale.lower() / "faq" / "index.html").read_text(encoding="utf-8"))
             self.assertNotIn("Discover your next opportunity", source)
             self.assertNotIn("Frequently asked questions", source)

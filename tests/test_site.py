@@ -402,7 +402,7 @@ class SiteTests(unittest.TestCase):
     def test_keyword_targets_are_documented_without_fake_volume_claims(self):
         targets = json.loads((ROOT / "content/seo-keywords.json").read_text(encoding="utf-8"))
         self.assertIn("fruit match 3 game", targets["en"]["primary"])
-        self.assertIn("البحث عن عمل", targets["ar"]["primary"])
+        self.assertIn("لعبة مطابقة الفواكه", targets["ar"]["primary"])
         self.assertIn("not verified", targets["note"])
 
 

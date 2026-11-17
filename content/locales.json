@@ -7,7 +7,7 @@
       "faq": "Foire aux questions",
       "download_nav": "Télécharger",
       "download_title": "Télécharger Palace Match pour Android",
-      "download_intro": "Obtenez l’application Android officielle Palace Match sur Google Play pour découvrir des parties d’jeu, consulter leur contexte et organiser vos favoris.",
+      "download_intro": "Téléchargez Palace Match sur Google Play et profitez de puzzles de fruits, de cascades et de combos.",
       "download_steps_title": "Installer en trois étapes simples",
       "download_step_1": "Ouvrez la fiche officielle sur Google Play.",
       "download_step_2": "Touchez Installer sur votre appareil Android.",
@@ -17,58 +17,58 @@
       "platform": "Plateforme",
       "developer": "Développeur",
       "package": "Identifiant du package",
-      "home": "Découvrez votre prochaine partie",
+      "home": "Associez des fruits colorés dans le palais",
       "cta": "Voir sur Google Play",
-      "tag": "DÉCOUVERTE DE POSSIBILITÉS D’EMPLOI",
+      "tag": "PUZZLE DE FRUITS MATCH 3",
       "gallery": "Un aperçu de l’application",
       "gallery_intro": "Captures d’écran réelles de la fiche Google Play.",
       "download": "Commencez avec Palace Match",
       "privacy": "Politique de confidentialité",
       "support": "Soutien",
-      "about_intro": "Découvrez comment Palace Match vous aide à repérer et à organiser des parties d’jeu.",
-      "features_intro": "Explorez les outils de découverte et d’organisation proposés par Palace Match.",
-      "faq_intro": "Réponses aux questions courantes sur Palace Match.",
+      "about_intro": "Découvrez les associations de fruits, les combos, les pièces, les XP et les modes de jeu de Palace Match.",
+      "features_intro": "Explorez les associations de fruits, les cascades, les combos, les pièces, les XP et les modes de jeu.",
+      "faq_intro": "Réponses aux questions courantes sur le jeu de puzzle de fruits Palace Match.",
       "language": "Choisir la langue",
       "english": "English",
       "arabic": "العربية",
-      "home_intro": "Explorez les parties d’jeu, consultez les renseignements utiles et gardez à portée de main les postes qui vous intéressent."
+      "home_intro": "Échangez des fruits voisins sur un plateau 8×8, associez-en trois ou plus, créez des cascades, gagnez des pièces et progressez dans les niveaux du palais."
     },
     "titles": {
-      "home": "Application de jeu de puzzle fruité | Palace Match",
-      "about": "À propos de Palace Match | Offres d’jeu",
-      "features": "Fonctionnalités Palace Match | Recherche d’jeu",
-      "download": "Télécharger Palace Match pour Android | Google Play",
-      "faq": "FAQ Palace Match | Offres et jeu de puzzle fruité"
+      "home": "Jeu de puzzle de fruits | Palace Match",
+      "about": "À propos de Palace Match | Puzzle de fruits",
+      "features": "Fonctionnalités Palace Match | Match 3",
+      "download": "Télécharger Palace Match pour Android",
+      "faq": "FAQ Palace Match | Jeu de match 3"
     },
     "descriptions": {
-      "home": "Découvrez des parties d’jeu avec Palace Match, une application Android pour examiner les détails des postes et organiser les niveaus à suivre.",
-      "about": "Découvrez comment Palace Match aide à repérer des parties d’jeu, à examiner les renseignements sur les postes et à organiser les niveaus à suivre.",
-      "features": "Explorez les fonctions de découverte, les fiches de postes, les indicateurs de rémunération et de lieu, ainsi que les collections personnelles.",
-      "download": "Téléchargez Palace Match pour Android sur Google Play. Découvrez des parties d’jeu, examinez les détails des postes et organisez vos favoris.",
-      "faq": "Consultez les réponses sur la jeu de puzzle fruité, les niveaus, les indicateurs, les collections personnelles et l’installation de Palace Match."
+      "home": "Jouez à Palace Match, un puzzle de fruits match 3. Échangez des fruits, créez des combos et progressez dans le palais.",
+      "about": "Découvrez les associations de fruits, les cascades, les combos, les pièces et les niveaux de Palace Match.",
+      "features": "Explorez les fonctions match 3 : cascades, combos, pièces, XP et mode sans fin.",
+      "download": "Téléchargez Palace Match sur Android depuis Google Play et commencez à associer des fruits.",
+      "faq": "Réponses sur les puzzles de fruits, les combos, les pièces, les XP et les modes de jeu."
     },
-    "app_description": "Une expérience de découverte de parties d’jeu axée sur les nouveaux signaux, l’analyse des occasions et les collections personnelles. Explorez les postes, consultez les indications de rémunération et de lieu, comprenez pourquoi une partie est présentée et organisez celles à suivre.",
-    "tagline": "Découvrez les parties avant que la concurrence ne s’intensifie.",
+    "app_description": "Palace Match est un jeu de puzzle match 3 : échangez des fruits sur un plateau 8×8, créez des combos, gagnez des pièces et des XP, puis progressez dans les niveaux du palais.",
+    "tagline": "Associez des fruits, créez des combos et avancez dans le palais.",
     "features": [
       [
-        "Repérez les nouveaux signaux d’jeu",
-        "Consultez un fil de découverte présentant les parties récemment repérées, leur fraîcheur et des indicateurs de correspondance."
+        "Associez des fruits colorés",
+        "Échangez des fruits voisins sur un plateau 8×8 et associez-en trois ou plus."
       ],
       [
-        "Évaluez les parties en un coup d’œil",
-        "Comparez les postes, les organisations, les lieux et les indications de rémunération dans des fiches faciles à parcourir."
+        "Créez des cascades",
+        "Éliminez les fruits associés et préparez de nouvelles associations."
       ],
       [
-        "Comprenez pourquoi une partie ressort",
-        "Examinez les indications de rémunération, de lieu, de flexibilité à distance, de fraîcheur et les raisons mises de l’avant par l’application. Ces valeurs ne sont pas des garanties."
+        "Enchaînez les combos",
+        "Reliez plusieurs associations pour augmenter votre score."
       ],
       [
-        "Explorez les indicateurs d’analyse",
-        "Consultez les indicateurs de complétude des données, de fraîcheur, d’unicité et de concurrence, ainsi que les compétences et exigences détectées. Il s’agit d’estimations."
+        "Gagnez des pièces et des XP",
+        "Collectez des récompenses et progressez dans les niveaux du palais."
       ],
       [
-        "Organisez les parties en collections",
-        "Créez des collections personnelles comme Remote Hub, Elite Leap et Ma liste de suivi pour classer les parties et les retrouver."
+        "Choisissez votre mode",
+        "Jouez avec un nombre de coups limité ou passez au mode sans fin."
       ]
     ],
     "faq": [
@@ -622,7 +622,7 @@
       "faq": "Foire aux questions",
       "download_nav": "Télécharger",
       "download_title": "Télécharger Palace Match pour Android",
-      "download_intro": "Obtenez l’application Android officielle Palace Match sur Google Play pour découvrir des parties d’jeu, consulter leur contexte et organiser vos favoris.",
+      "download_intro": "Téléchargez Palace Match sur Google Play et profitez de puzzles de fruits, de cascades et de combos.",
       "download_steps_title": "Installer en trois étapes simples",
       "download_step_1": "Ouvrez la fiche officielle sur Google Play.",
       "download_step_2": "Touchez Installer sur votre appareil Android.",
@@ -632,58 +632,58 @@
       "platform": "Plateforme",
       "developer": "Développeur",
       "package": "Identifiant du package",
-      "home": "Découvrez votre prochaine partie",
+      "home": "Associez des fruits colorés dans le palais",
       "cta": "Voir sur Google Play",
-      "tag": "DÉCOUVERTE DE POSSIBILITÉS D’EMPLOI",
+      "tag": "PUZZLE DE FRUITS MATCH 3",
       "gallery": "Un aperçu de l’application",
       "gallery_intro": "Captures d’écran réelles de la fiche Google Play.",
       "download": "Commencez avec Palace Match",
       "privacy": "Politique de confidentialité",
       "support": "Soutien",
-      "about_intro": "Découvrez comment Palace Match vous aide à repérer et à organiser des parties d’jeu.",
-      "features_intro": "Explorez les outils de découverte et d’organisation proposés par Palace Match.",
-      "faq_intro": "Réponses aux questions courantes sur Palace Match.",
+      "about_intro": "Découvrez les associations de fruits, les combos, les pièces, les XP et les modes de jeu de Palace Match.",
+      "features_intro": "Explorez les associations de fruits, les cascades, les combos, les pièces, les XP et les modes de jeu.",
+      "faq_intro": "Réponses aux questions courantes sur le jeu de puzzle de fruits Palace Match.",
       "language": "Choisir la langue",
       "english": "English",
       "arabic": "العربية",
-      "home_intro": "Explorez les parties d’jeu, consultez les renseignements utiles et gardez à portée de main les postes qui vous intéressent."
+      "home_intro": "Échangez des fruits voisins sur un plateau 8×8, associez-en trois ou plus, créez des cascades, gagnez des pièces et progressez dans les niveaux du palais."
     },
     "titles": {
-      "home": "Application de jeu de puzzle fruité | Palace Match",
-      "about": "À propos de Palace Match | Découverte d’niveaus d’jeu",
-      "features": "Fonctionnalités de Palace Match | Découverte d’jeu",
-      "download": "Télécharger Palace Match pour Android | Google Play",
-      "faq": "FAQ Palace Match | Recherche d’jeu et fonctionnalités"
+      "home": "Jeu de puzzle de fruits | Palace Match",
+      "about": "À propos de Palace Match | Puzzle de fruits",
+      "features": "Fonctionnalités Palace Match | Match 3",
+      "download": "Télécharger Palace Match pour Android",
+      "faq": "FAQ Palace Match | Jeu de match 3"
     },
     "descriptions": {
-      "home": "Découvrez des opportunités professionnelles avec Palace Match, une application Android pour examiner les postes et organiser ceux à suivre.",
-      "about": "Découvrez comment Palace Match aide à repérer des opportunités, à examiner les informations sur les postes et à organiser les niveaus à retrouver.",
-      "features": "Explorez les fonctions de découverte, les fiches de postes, les indicateurs et les collections personnelles de Palace Match.",
-      "download": "Téléchargez Palace Match pour Android sur Google Play. Découvrez des opportunités, consultez les détails des postes et organisez vos favoris.",
-      "faq": "Réponses sur Palace Match, la découverte d’opportunités, les indicateurs des postes et les collections personnelles."
+      "home": "Jouez à Palace Match, un puzzle de fruits match 3. Échangez des fruits, créez des combos et progressez dans le palais.",
+      "about": "Découvrez les associations de fruits, les cascades, les combos, les pièces et les niveaux de Palace Match.",
+      "features": "Explorez les fonctions match 3 : cascades, combos, pièces, XP et mode sans fin.",
+      "download": "Téléchargez Palace Match sur Android depuis Google Play et commencez à associer des fruits.",
+      "faq": "Réponses sur les puzzles de fruits, les combos, les pièces, les XP et les modes de jeu."
     },
-    "app_description": "Une application de découverte d’opportunités professionnelles axée sur les nouveaux signaux, le contexte des postes et les collections personnelles. Les indicateurs de rémunération, de lieu et d’actualité sont des repères, pas des garanties.",
-    "tagline": "Découvrez des opportunités et organisez votre recherche.",
+    "app_description": "Palace Match est un jeu de puzzle match 3 : échangez des fruits sur un plateau 8×8, créez des combos, gagnez des pièces et des XP, puis progressez dans les niveaux du palais.",
+    "tagline": "Associez des fruits, créez des combos et avancez dans le palais.",
     "features": [
       [
-        "Repérez les nouveaux signaux d’jeu",
-        "Consultez un fil de découverte présentant les parties récemment repérées, leur fraîcheur et des indicateurs de correspondance."
+        "Associez des fruits colorés",
+        "Échangez des fruits voisins sur un plateau 8×8 et associez-en trois ou plus."
       ],
       [
-        "Évaluez les parties en un coup d’œil",
-        "Comparez les postes, les organisations, les lieux et les indications de rémunération dans des fiches faciles à parcourir."
+        "Créez des cascades",
+        "Éliminez les fruits associés et préparez de nouvelles associations."
       ],
       [
-        "Comprenez pourquoi une partie ressort",
-        "Examinez les indications de rémunération, de lieu, de flexibilité à distance, de fraîcheur et les raisons mises de l’avant par l’application. Ces valeurs ne sont pas des garanties."
+        "Enchaînez les combos",
+        "Reliez plusieurs associations pour augmenter votre score."
       ],
       [
-        "Explorez les indicateurs d’analyse",
-        "Consultez les indicateurs de complétude des données, de fraîcheur, d’unicité et de concurrence, ainsi que les compétences et exigences détectées. Il s’agit d’estimations."
+        "Gagnez des pièces et des XP",
+        "Collectez des récompenses et progressez dans les niveaux du palais."
       ],
       [
-        "Organisez les parties en collections",
-        "Créez des collections personnelles comme Remote Hub, Elite Leap et Ma liste de suivi pour classer les parties et les retrouver."
+        "Choisissez votre mode",
+        "Jouez avec un nombre de coups limité ou passez au mode sans fin."
       ]
     ],
     "faq": [

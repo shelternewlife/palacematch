@@ -517,47 +517,38 @@
     "en-US": {
       "language": "English (United States)",
       "market": "United States",
-      "intent": "Discover and evaluate job opportunities with an Android app; do not imply a guaranteed live inventory, application service or job-board comparison.",
+      "intent": "Discover a casual fruit match-3 puzzle game and understand its published gameplay features without promising rankings or unverified performance.",
       "primary": [
-        "job search app",
-        "job opportunities",
-        "job opportunity discovery app"
+        "fruit match 3 game",
+        "fruit matching puzzle",
+        "match 3 puzzle game"
       ],
       "secondary": [
-        "Android job search app",
-        "discover job opportunities",
-        "job listings",
-        "organize job opportunities"
+        "fruit combo puzzle",
+        "endless match 3",
+        "limited moves puzzle"
       ],
-      "excluded_terms": [
-        "best job search apps",
-        "jobs hiring now",
-        "remote jobs",
-        "entry level jobs",
-        "jobs near me",
-        "guaranteed jobs"
-      ],
-      "exclusion_reason": "These imply comparison rankings, live hiring inventory, geographic availability, or specialist filters that are not verified as core app capabilities.",
+      "excluded_terms": [],
+      "exclusion_reason": "Avoid unsupported claims about rankings, guaranteed rewards, device compatibility or features not stated on Google Play.",
       "clusters": [
         {
-          "intent": "app discovery",
+          "intent": "fruit match-3 gameplay",
           "primary": [
-            "job search app",
-            "job opportunities"
+            "fruit match 3 game",
+            "fruit matching puzzle"
           ],
           "secondary": [
-            "Android job search app",
-            "discover job opportunities"
+            "fruit combo puzzle",
+            "endless match 3"
           ]
         },
         {
-          "intent": "opportunity discovery and organization",
+          "intent": "game modes and progression",
           "primary": [
-            "job opportunity discovery app"
+            "match 3 puzzle game"
           ],
           "secondary": [
-            "job listings",
-            "organize job opportunities"
+            "limited moves puzzle"
           ]
         }
       ]
@@ -565,127 +556,116 @@
     "en-CA": {
       "language": "English (Canada)",
       "market": "Canada",
-      "intent": "Localize terminology for Canadian English while describing discovery and review features without promising Canadian vacancy coverage.",
+      "intent": "Discover a casual fruit match-3 puzzle game and understand its published gameplay features without promising rankings or unverified performance.",
       "primary": [
-        "job search app Canada",
-        "job search app",
-        "job postings",
-        "job opportunities"
+        "fruit match 3 game Canada",
+        "fruit matching game",
+        "match 3 puzzle game"
       ],
       "secondary": [
-        "Android job search app",
-        "employment opportunities",
-        "discover job opportunities",
-        "organize job postings"
+        "fruit combo puzzle",
+        "endless fruit matching",
+        "limited move puzzle"
       ],
-      "excluded_terms": [
-        "find jobs in Canada",
-        "jobs in Canada",
-        "jobs hiring now",
-        "remote jobs Canada",
-        "entry level jobs Canada"
-      ],
-      "exclusion_reason": "Avoid claims that the app guarantees Canadian inventory, current hiring, remote-only listings or entry-level coverage until verified against live app data.",
+      "excluded_terms": [],
+      "exclusion_reason": "Avoid unsupported claims about rankings, guaranteed rewards, device compatibility or features not stated on Google Play.",
       "clusters": [
         {
-          "intent": "app discovery",
+          "intent": "fruit match-3 gameplay",
           "primary": [
-            "job search app Canada",
-            "job search app"
+            "fruit match 3 game Canada",
+            "fruit matching game"
           ],
           "secondary": [
-            "Android job search app",
-            "employment opportunities"
+            "fruit combo puzzle",
+            "endless fruit matching"
           ]
         },
         {
-          "intent": "opportunity discovery and organization",
+          "intent": "game modes and progression",
           "primary": [
-            "job postings",
-            "job opportunities"
+            "match 3 puzzle game"
           ],
           "secondary": [
-            "discover job opportunities",
-            "organize job postings"
+            "limited move puzzle"
           ]
         }
       ]
     },
     "fr-CA": {
-      "language": "Français canadien",
+      "language": "Français (Canada)",
       "market": "Canada",
-      "intent": "Use natural Canadian French terms for job-search discovery and opportunity organization; do not imply guaranteed local vacancy coverage.",
+      "intent": "Discover a casual fruit match-3 puzzle game and understand its published gameplay features without promising rankings or unverified performance.",
       "primary": [
-        "application de recherche d’emploi",
-        "application pour trouver un emploi",
-        "offres d’emploi"
+        "jeu de puzzle de fruits",
+        "jeu de match 3",
+        "puzzle de fruits Android"
       ],
       "secondary": [
-        "possibilités d’emploi",
-        "recherche d’emploi",
-        "application Android pour l’emploi",
-        "organiser les offres d’emploi"
+        "combinaisons de fruits",
+        "jeu de fruits sans fin",
+        "puzzle à coups limités"
       ],
-      "excluded_terms": [
-        "emplois au Canada",
-        "emplois à distance",
-        "emplois débutant",
-        "emplois près de moi",
-        "meilleure application de recherche d’emploi"
-      ],
-      "exclusion_reason": "These can imply a verified Canadian job inventory, remote or entry-level filters, nearby listings or an unsupported comparative ranking.",
+      "excluded_terms": [],
+      "exclusion_reason": "Avoid unsupported claims about rankings, guaranteed rewards, device compatibility or features not stated on Google Play.",
       "clusters": [
         {
-          "intent": "app discovery",
+          "intent": "fruit match-3 gameplay",
           "primary": [
-            "application de recherche d’emploi",
-            "application pour trouver un emploi"
+            "jeu de puzzle de fruits",
+            "jeu de match 3"
           ],
           "secondary": [
-            "possibilités d’emploi",
-            "recherche d’emploi"
+            "combinaisons de fruits",
+            "jeu de fruits sans fin"
           ]
         },
         {
-          "intent": "opportunity discovery and organization",
+          "intent": "game modes and progression",
           "primary": [
-            "offres d’emploi"
+            "puzzle de fruits Android"
           ],
           "secondary": [
-            "application Android pour l’emploi",
-            "organiser les offres d’emploi"
+            "puzzle à coups limités"
           ]
         }
       ]
     },
     "es-ES": {
-      "language": "Français (France)",
+      "language": "Español (España)",
       "market": "Spain",
-      "intent": "Describe verified opportunity discovery and organization without claiming guaranteed local vacancy inventory or application services.",
+      "intent": "Discover a casual fruit match-3 puzzle game and understand its published gameplay features without promising rankings or unverified performance.",
       "primary": [
-        "aplicación para buscar empleo",
-        "ofertas de empleo"
+        "juego de combinar frutas",
+        "juego de puzles match 3",
+        "puzzle de frutas Android"
       ],
       "secondary": [
-        "buscar trabajo",
-        "organizar oportunidades"
+        "combos de frutas",
+        "modo sin fin",
+        "puzle de movimientos limitados"
       ],
-      "excluded_terms": [
-        "remote jobs",
-        "jobs hiring now",
-        "guaranteed jobs"
-      ],
-      "exclusion_reason": "Remote-work availability and country-specific vacancy coverage are not guaranteed by the app.",
+      "excluded_terms": [],
+      "exclusion_reason": "Avoid unsupported claims about rankings, guaranteed rewards, device compatibility or features not stated on Google Play.",
       "clusters": [
         {
-          "intent": "app discovery",
+          "intent": "fruit match-3 gameplay",
           "primary": [
-            "aplicación para buscar empleo",
-            "ofertas de empleo"
+            "juego de combinar frutas",
+            "juego de puzles match 3"
           ],
           "secondary": [
-            "buscar trabajo",
-            "organizar oportunidades"
+            "combos de frutas",
+            "modo sin fin"
+          ]
+        },
+        {
+          "intent": "game modes and progression",
+          "primary": [
+            "puzzle de frutas Android"
+          ],
+          "secondary": [
+            "puzle de movimientos limitados"
           ]
         }
       ]
@@ -693,31 +673,38 @@
     "pt-PT": {
       "language": "Português (Portugal)",
       "market": "Portugal",
-      "intent": "Describe verified opportunity discovery and organization without claiming guaranteed local vacancy inventory or application services.",
+      "intent": "Discover a casual fruit match-3 puzzle game and understand its published gameplay features without promising rankings or unverified performance.",
       "primary": [
-        "aplicação para procurar emprego",
-        "ofertas de emprego"
+        "jogo de combinar frutas",
+        "jogo de puzzle match 3",
+        "puzzle de frutas Android"
       ],
       "secondary": [
-        "procurar trabalho",
-        "organizar oportunidades"
+        "combinações de frutas",
+        "modo infinito",
+        "puzzle com movimentos limitados"
       ],
-      "excluded_terms": [
-        "remote jobs",
-        "jobs hiring now",
-        "guaranteed jobs"
-      ],
-      "exclusion_reason": "Remote-work availability and country-specific vacancy coverage are not guaranteed by the app.",
+      "excluded_terms": [],
+      "exclusion_reason": "Avoid unsupported claims about rankings, guaranteed rewards, device compatibility or features not stated on Google Play.",
       "clusters": [
         {
-          "intent": "app discovery",
+          "intent": "fruit match-3 gameplay",
           "primary": [
-            "aplicação para procurar emprego",
-            "ofertas de emprego"
+            "jogo de combinar frutas",
+            "jogo de puzzle match 3"
           ],
           "secondary": [
-            "procurar trabalho",
-            "organizar oportunidades"
+            "combinações de frutas",
+            "modo infinito"
+          ]
+        },
+        {
+          "intent": "game modes and progression",
+          "primary": [
+            "puzzle de frutas Android"
+          ],
+          "secondary": [
+            "puzzle com movimentos limitados"
           ]
         }
       ]
@@ -725,31 +712,38 @@
     "fr-FR": {
       "language": "Français (France)",
       "market": "France",
-      "intent": "Describe verified opportunity discovery and organization without claiming guaranteed local vacancy inventory or application services.",
+      "intent": "Discover a casual fruit match-3 puzzle game and understand its published gameplay features without promising rankings or unverified performance.",
       "primary": [
-        "application de recherche d’emploi",
-        "offres d’emploi"
+        "jeu de puzzle de fruits",
+        "jeu de match 3",
+        "puzzle de fruits Android"
       ],
       "secondary": [
-        "recherche d’emploi",
-        "organiser les offres"
+        "combos de fruits",
+        "mode sans fin",
+        "puzzle à coups limités"
       ],
-      "excluded_terms": [
-        "remote jobs",
-        "jobs hiring now",
-        "guaranteed jobs"
-      ],
-      "exclusion_reason": "Remote-work availability and country-specific vacancy coverage are not guaranteed by the app.",
+      "excluded_terms": [],
+      "exclusion_reason": "Avoid unsupported claims about rankings, guaranteed rewards, device compatibility or features not stated on Google Play.",
       "clusters": [
         {
-          "intent": "app discovery",
+          "intent": "fruit match-3 gameplay",
           "primary": [
-            "application de recherche d’emploi",
-            "offres d’emploi"
+            "jeu de puzzle de fruits",
+            "jeu de match 3"
           ],
           "secondary": [
-            "recherche d’emploi",
-            "organiser les offres"
+            "combos de fruits",
+            "mode sans fin"
+          ]
+        },
+        {
+          "intent": "game modes and progression",
+          "primary": [
+            "puzzle de fruits Android"
+          ],
+          "secondary": [
+            "puzzle à coups limités"
           ]
         }
       ]
@@ -757,31 +751,38 @@
     "de-DE": {
       "language": "Deutsch (Deutschland)",
       "market": "Germany",
-      "intent": "Describe verified opportunity discovery and organization without claiming guaranteed local vacancy inventory or application services.",
+      "intent": "Discover a casual fruit match-3 puzzle game and understand its published gameplay features without promising rankings or unverified performance.",
       "primary": [
-        "Jobsuche App",
-        "Stellenangebote"
+        "Früchte Match 3 Spiel",
+        "Früchte Puzzle",
+        "Match 3 Spiel für Android"
       ],
       "secondary": [
-        "Jobs entdecken",
-        "Stellenangebote organisieren"
+        "Frucht-Kombos",
+        "Endlosmodus",
+        "Puzzle mit Zuglimit"
       ],
-      "excluded_terms": [
-        "remote jobs",
-        "jobs hiring now",
-        "guaranteed jobs"
-      ],
-      "exclusion_reason": "Remote-work availability and country-specific vacancy coverage are not guaranteed by the app.",
+      "excluded_terms": [],
+      "exclusion_reason": "Avoid unsupported claims about rankings, guaranteed rewards, device compatibility or features not stated on Google Play.",
       "clusters": [
         {
-          "intent": "app discovery",
+          "intent": "fruit match-3 gameplay",
           "primary": [
-            "Jobsuche App",
-            "Stellenangebote"
+            "Früchte Match 3 Spiel",
+            "Früchte Puzzle"
           ],
           "secondary": [
-            "Jobs entdecken",
-            "Stellenangebote organisieren"
+            "Frucht-Kombos",
+            "Endlosmodus"
+          ]
+        },
+        {
+          "intent": "game modes and progression",
+          "primary": [
+            "Match 3 Spiel für Android"
+          ],
+          "secondary": [
+            "Puzzle mit Zuglimit"
           ]
         }
       ]
@@ -789,31 +790,38 @@
     "it-IT": {
       "language": "Italiano (Italia)",
       "market": "Italy",
-      "intent": "Describe verified opportunity discovery and organization without claiming guaranteed local vacancy inventory or application services.",
+      "intent": "Discover a casual fruit match-3 puzzle game and understand its published gameplay features without promising rankings or unverified performance.",
       "primary": [
-        "app per cercare lavoro",
-        "offerte di lavoro"
+        "gioco match 3 frutta",
+        "puzzle di frutta",
+        "gioco di abbinamento frutta Android"
       ],
       "secondary": [
-        "opportunità di lavoro",
-        "organizzare offerte"
+        "combo di frutta",
+        "modalità infinita",
+        "puzzle a mosse limitate"
       ],
-      "excluded_terms": [
-        "remote jobs",
-        "jobs hiring now",
-        "guaranteed jobs"
-      ],
-      "exclusion_reason": "Remote-work availability and country-specific vacancy coverage are not guaranteed by the app.",
+      "excluded_terms": [],
+      "exclusion_reason": "Avoid unsupported claims about rankings, guaranteed rewards, device compatibility or features not stated on Google Play.",
       "clusters": [
         {
-          "intent": "app discovery",
+          "intent": "fruit match-3 gameplay",
           "primary": [
-            "app per cercare lavoro",
-            "offerte di lavoro"
+            "gioco match 3 frutta",
+            "puzzle di frutta"
           ],
           "secondary": [
-            "opportunità di lavoro",
-            "organizzare offerte"
+            "combo di frutta",
+            "modalità infinita"
+          ]
+        },
+        {
+          "intent": "game modes and progression",
+          "primary": [
+            "gioco di abbinamento frutta Android"
+          ],
+          "secondary": [
+            "puzzle a mosse limitate"
           ]
         }
       ]
