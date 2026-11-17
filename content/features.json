@@ -1,0 +1,57 @@
+[
+  {
+    "id": "discovery",
+    "title": {
+      "en": "Match colorful fruit",
+      "ar": "طابق الفواكه الملوّنة"
+    },
+    "description": {
+      "en": "Swap adjacent fruit on the 8x8 board and match three or more pieces in a row or column.",
+      "ar": "بدّل الفواكه المتجاورة على لوحة 8×8 وطابق ثلاثة عناصر أو أكثر في صف أو عمود."
+    }
+  },
+  {
+    "id": "opportunity-cards",
+    "title": {
+      "en": "Create satisfying cascades",
+      "ar": "اصنع سلاسل متتابعة"
+    },
+    "description": {
+      "en": "Clear matched fruit, refill the board and set up follow-up matches and chain reactions.",
+      "ar": "أزل الفواكه المتطابقة، ودع اللوحة تمتلئ من جديد، واستعد لمطابقات متتالية."
+    }
+  },
+  {
+    "id": "opportunity-intelligence",
+    "title": {
+      "en": "Build combos and boost scores",
+      "ar": "كوّن التركيبات وارفع نتيجتك"
+    },
+    "description": {
+      "en": "Link matches into combo chains and aim for stronger clears and higher scores.",
+      "ar": "اربط المطابقات في سلاسل متتابعة لتحقيق نتائج أعلى وإزالة المزيد من القطع."
+    }
+  },
+  {
+    "id": "derived-metrics",
+    "title": {
+      "en": "Earn coins and gain XP",
+      "ar": "اجمع العملات واكتسب XP"
+    },
+    "description": {
+      "en": "Collect coins through gameplay, gain experience and make progress toward new palace levels.",
+      "ar": "اجمع العملات أثناء اللعب واكتسب نقاط الخبرة وتقدّم نحو مستويات جديدة في القصر."
+    }
+  },
+  {
+    "id": "collections",
+    "title": {
+      "en": "Choose your way to play",
+      "ar": "اختر نمط اللعب المناسب"
+    },
+    "description": {
+      "en": "Take on limited-move puzzle rounds or switch to endless mode for a more relaxed session.",
+      "ar": "خض جولات ألغاز بعدد حركات محدود أو انتقل إلى النمط اللامتناهي لجلسة أكثر استرخاءً."
+    }
+  }
+]

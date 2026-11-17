@@ -1,0 +1,122 @@
+[
+  {
+    "q": {
+      "en": "What is Palace Match?",
+      "ar": "ما هي لعبة Palace Match؟"
+    },
+    "a": {
+      "en": "Palace Match is a casual fruit match-3 puzzle game where you swap adjacent fruit, make matches and progress through palace levels.",
+      "ar": "Palace Match لعبة ألغاز لمطابقة الفواكه، حيث تبدّل القطع المتجاورة وتحقق المطابقات وتتقدم عبر مستويات القصر."
+    }
+  },
+  {
+    "q": {
+      "en": "How do I play?",
+      "ar": "كيف ألعب؟"
+    },
+    "a": {
+      "en": "Swipe or swap adjacent fruits on the 8x8 board. Match three or more identical fruits in a row or column to clear them.",
+      "ar": "حرّك أو بدّل الفواكه المتجاورة على لوحة 8×8. طابق ثلاثة عناصر متشابهة أو أكثر في صف أو عمود لإزالتها."
+    }
+  },
+  {
+    "q": {
+      "en": "What happens when I make a match?",
+      "ar": "ماذا يحدث عند تحقيق مطابقة؟"
+    },
+    "a": {
+      "en": "Matched fruit clears from the board, new pieces refill the spaces and further cascades may create additional matches.",
+      "ar": "تُزال الفواكه المتطابقة من اللوحة، وتملأ قطع جديدة الفراغات، وقد تؤدي السلاسل إلى مطابقات إضافية."
+    }
+  },
+  {
+    "q": {
+      "en": "Which fruits can I match?",
+      "ar": "ما أنواع الفواكه الموجودة؟"
+    },
+    "a": {
+      "en": "The game includes a variety of fruit pieces such as apples, bananas, oranges, grapes, watermelon, lemon, cherry, kiwi, mango and pineapple.",
+      "ar": "تضم اللعبة أنواعاً متعددة مثل التفاح والموز والبرتقال والعنب والبطيخ والليمون والكرز والكيوي والمانجو والأناناس."
+    }
+  },
+  {
+    "q": {
+      "en": "What are combos?",
+      "ar": "ما المقصود بالتركيبات؟"
+    },
+    "a": {
+      "en": "Combos are chains of matches that can boost your score and make a board clear more satisfying.",
+      "ar": "التركيبات هي سلاسل من المطابقات المتتابعة التي تساعد على رفع النتيجة وجعل إزالة القطع أكثر متعة."
+    }
+  },
+  {
+    "q": {
+      "en": "Can I earn coins?",
+      "ar": "هل يمكنني جمع العملات؟"
+    },
+    "a": {
+      "en": "Yes. Gameplay can reward coins that contribute to your in-game progress.",
+      "ar": "نعم. يمكنك الحصول على عملات من خلال اللعب والاستفادة منها في تقدمك داخل اللعبة."
+    }
+  },
+  {
+    "q": {
+      "en": "What is XP?",
+      "ar": "ما هي نقاط XP؟"
+    },
+    "a": {
+      "en": "XP is experience earned during play and used to track your progression through the game.",
+      "ar": "هي نقاط خبرة تكتسبها أثناء اللعب وتُستخدم لمتابعة تقدمك في اللعبة."
+    }
+  },
+  {
+    "q": {
+      "en": "Does Palace Match have different modes?",
+      "ar": "هل تتوفر أنماط لعب مختلفة؟"
+    },
+    "a": {
+      "en": "Yes. You can play limited-move rounds for a focused challenge or choose endless mode for relaxed play.",
+      "ar": "نعم. يمكنك خوض جولات بتحدي الحركات المحدودة أو اختيار النمط اللامتناهي للعب الهادئ."
+    }
+  },
+  {
+    "q": {
+      "en": "Is Palace Match suitable for quick sessions?",
+      "ar": "هل تناسب اللعبة الجلسات القصيرة؟"
+    },
+    "a": {
+      "en": "The match-3 board and simple swipe controls make it easy to start a casual puzzle session.",
+      "ar": "تجعل لوحة المطابقة وعناصر التحكم البسيطة بدء جلسة ألغاز سريعة أمراً سهلاً."
+    }
+  },
+  {
+    "q": {
+      "en": "Does Palace Match contain ads?",
+      "ar": "هل تحتوي Palace Match على إعلانات؟"
+    },
+    "a": {
+      "en": "The Google Play listing identifies Palace Match as containing ads.",
+      "ar": "توضح صفحة Google Play أن لعبة Palace Match تحتوي على إعلانات."
+    }
+  },
+  {
+    "q": {
+      "en": "Can I adjust sound and haptics?",
+      "ar": "هل يمكنني ضبط الصوت والاهتزاز؟"
+    },
+    "a": {
+      "en": "The game includes comfort settings for sound, music and haptics.",
+      "ar": "تتضمن اللعبة إعدادات للتحكم في الصوت والموسيقى والاهتزازات اللمسية."
+    }
+  },
+  {
+    "q": {
+      "en": "Where can I install Palace Match?",
+      "ar": "من أين أثبّت Palace Match؟"
+    },
+    "a": {
+      "en": "Install the official Android game from its Google Play listing.",
+      "ar": "ثبّت اللعبة الرسمية لنظام Android من صفحتها على Google Play."
+    }
+  }
+]
