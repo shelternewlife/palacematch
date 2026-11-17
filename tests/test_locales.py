@@ -80,8 +80,8 @@ class MarketLocaleTests(unittest.TestCase):
             folded = metadata.casefold()
             for term in config["excluded_terms"]:
                 self.assertNotIn(term.casefold(), folded, f"Unsupported keyword claim in {locale}: {term}")
-        self.assertIn("job search app", " ".join(clusters["en-US"]["primary"]))
-        self.assertIn("job search app Canada", " ".join(clusters["en-CA"]["primary"]))
+        self.assertIn("fruit match 3 game", " ".join(clusters["en-US"]["primary"]))
+        self.assertIn("fruit match 3 game Canada", " ".join(clusters["en-CA"]["primary"]))
         self.assertIn("application de recherche d’emploi", " ".join(clusters["fr-CA"]["primary"]))
 
     def test_only_explicitly_published_locales_are_generated(self):

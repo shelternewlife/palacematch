@@ -1,65 +1,65 @@
 {
   "fr-CA": {
     "text": {
-      "about": "À propos de Job Connect",
+      "about": "À propos de Palace Match",
       "skip_to_content": "Passer au contenu principal",
       "features": "Explorer les fonctionnalités",
       "faq": "Foire aux questions",
       "download_nav": "Télécharger",
-      "download_title": "Télécharger Job Connect pour Android",
-      "download_intro": "Obtenez l’application Android officielle Job Connect sur Google Play pour découvrir des possibilités d’emploi, consulter leur contexte et organiser vos favoris.",
+      "download_title": "Télécharger Palace Match pour Android",
+      "download_intro": "Obtenez l’application Android officielle Palace Match sur Google Play pour découvrir des parties d’jeu, consulter leur contexte et organiser vos favoris.",
       "download_steps_title": "Installer en trois étapes simples",
       "download_step_1": "Ouvrez la fiche officielle sur Google Play.",
       "download_step_2": "Touchez Installer sur votre appareil Android.",
-      "download_step_3": "Ouvrez Job Connect et explorez les possibilités.",
+      "download_step_3": "Ouvrez Palace Match et explorez les parties.",
       "download_note": "Pour votre sécurité, installez l’application uniquement à partir de sa fiche officielle sur Google Play.",
       "download_facts": "Renseignements sur l’application",
       "platform": "Plateforme",
       "developer": "Développeur",
       "package": "Identifiant du package",
-      "home": "Découvrez votre prochaine possibilité",
+      "home": "Découvrez votre prochaine partie",
       "cta": "Voir sur Google Play",
       "tag": "DÉCOUVERTE DE POSSIBILITÉS D’EMPLOI",
       "gallery": "Un aperçu de l’application",
       "gallery_intro": "Captures d’écran réelles de la fiche Google Play.",
-      "download": "Commencez avec Job Connect",
+      "download": "Commencez avec Palace Match",
       "privacy": "Politique de confidentialité",
       "support": "Soutien",
-      "about_intro": "Découvrez comment Job Connect vous aide à repérer et à organiser des possibilités d’emploi.",
-      "features_intro": "Explorez les outils de découverte et d’organisation proposés par Job Connect.",
-      "faq_intro": "Réponses aux questions courantes sur Job Connect.",
+      "about_intro": "Découvrez comment Palace Match vous aide à repérer et à organiser des parties d’jeu.",
+      "features_intro": "Explorez les outils de découverte et d’organisation proposés par Palace Match.",
+      "faq_intro": "Réponses aux questions courantes sur Palace Match.",
       "language": "Choisir la langue",
       "english": "English",
       "arabic": "العربية",
-      "home_intro": "Explorez les possibilités d’emploi, consultez les renseignements utiles et gardez à portée de main les postes qui vous intéressent."
+      "home_intro": "Explorez les parties d’jeu, consultez les renseignements utiles et gardez à portée de main les postes qui vous intéressent."
     },
     "titles": {
-      "home": "Application de recherche d’emploi | Job Connect",
-      "about": "À propos de Job Connect | Offres d’emploi",
-      "features": "Fonctionnalités Job Connect | Recherche d’emploi",
-      "download": "Télécharger Job Connect pour Android | Google Play",
-      "faq": "FAQ Job Connect | Offres et recherche d’emploi"
+      "home": "Application de jeu de puzzle fruité | Palace Match",
+      "about": "À propos de Palace Match | Offres d’jeu",
+      "features": "Fonctionnalités Palace Match | Recherche d’jeu",
+      "download": "Télécharger Palace Match pour Android | Google Play",
+      "faq": "FAQ Palace Match | Offres et jeu de puzzle fruité"
     },
     "descriptions": {
-      "home": "Découvrez des possibilités d’emploi avec Job Connect, une application Android pour examiner les détails des postes et organiser les offres à suivre.",
-      "about": "Découvrez comment Job Connect aide à repérer des possibilités d’emploi, à examiner les renseignements sur les postes et à organiser les offres à suivre.",
+      "home": "Découvrez des parties d’jeu avec Palace Match, une application Android pour examiner les détails des postes et organiser les niveaus à suivre.",
+      "about": "Découvrez comment Palace Match aide à repérer des parties d’jeu, à examiner les renseignements sur les postes et à organiser les niveaus à suivre.",
       "features": "Explorez les fonctions de découverte, les fiches de postes, les indicateurs de rémunération et de lieu, ainsi que les collections personnelles.",
-      "download": "Téléchargez Job Connect pour Android sur Google Play. Découvrez des possibilités d’emploi, examinez les détails des postes et organisez vos favoris.",
-      "faq": "Consultez les réponses sur la recherche d’emploi, les offres, les indicateurs, les collections personnelles et l’installation de Job Connect."
+      "download": "Téléchargez Palace Match pour Android sur Google Play. Découvrez des parties d’jeu, examinez les détails des postes et organisez vos favoris.",
+      "faq": "Consultez les réponses sur la jeu de puzzle fruité, les niveaus, les indicateurs, les collections personnelles et l’installation de Palace Match."
     },
-    "app_description": "Une expérience de découverte de possibilités d’emploi axée sur les nouveaux signaux, l’analyse des occasions et les collections personnelles. Explorez les postes, consultez les indications de rémunération et de lieu, comprenez pourquoi une possibilité est présentée et organisez celles à suivre.",
-    "tagline": "Découvrez les possibilités avant que la concurrence ne s’intensifie.",
+    "app_description": "Une expérience de découverte de parties d’jeu axée sur les nouveaux signaux, l’analyse des occasions et les collections personnelles. Explorez les postes, consultez les indications de rémunération et de lieu, comprenez pourquoi une partie est présentée et organisez celles à suivre.",
+    "tagline": "Découvrez les parties avant que la concurrence ne s’intensifie.",
     "features": [
       [
-        "Repérez les nouveaux signaux d’emploi",
-        "Consultez un fil de découverte présentant les possibilités récemment repérées, leur fraîcheur et des indicateurs de correspondance."
+        "Repérez les nouveaux signaux d’jeu",
+        "Consultez un fil de découverte présentant les parties récemment repérées, leur fraîcheur et des indicateurs de correspondance."
       ],
       [
-        "Évaluez les possibilités en un coup d’œil",
+        "Évaluez les parties en un coup d’œil",
         "Comparez les postes, les organisations, les lieux et les indications de rémunération dans des fiches faciles à parcourir."
       ],
       [
-        "Comprenez pourquoi une possibilité ressort",
+        "Comprenez pourquoi une partie ressort",
         "Examinez les indications de rémunération, de lieu, de flexibilité à distance, de fraîcheur et les raisons mises de l’avant par l’application. Ces valeurs ne sont pas des garanties."
       ],
       [
@@ -67,14 +67,14 @@
         "Consultez les indicateurs de complétude des données, de fraîcheur, d’unicité et de concurrence, ainsi que les compétences et exigences détectées. Il s’agit d’estimations."
       ],
       [
-        "Organisez les possibilités en collections",
-        "Créez des collections personnelles comme Remote Hub, Elite Leap et Ma liste de suivi pour classer les possibilités et les retrouver."
+        "Organisez les parties en collections",
+        "Créez des collections personnelles comme Remote Hub, Elite Leap et Ma liste de suivi pour classer les parties et les retrouver."
       ]
     ],
     "faq": [
       [
-        "Qu’est-ce que Job Connect?",
-        "Une application de découverte de possibilités d’emploi axée sur les nouveaux signaux, le contexte des postes et les collections personnelles."
+        "Qu’est-ce que Palace Match?",
+        "Une application de découverte de parties d’jeu axée sur les nouveaux signaux, le contexte des postes et les collections personnelles."
       ],
       [
         "Que signifie un indicateur de correspondance?",
@@ -85,111 +85,111 @@
         "L’application présente des indicateurs calculés, comme la complétude des données, la fraîcheur de l’annonce, l’unicité et la concurrence, ainsi que des compétences et exigences détectées. Ce sont des estimations."
       ],
       [
-        "Puis-je organiser les possibilités d’emploi?",
+        "Puis-je organiser les parties d’jeu?",
         "Oui. Les collections comprennent des exemples comme Remote Hub, Elite Leap et Ma liste de suivi."
       ],
       [
-        "Où puis-je installer Job Connect?",
+        "Où puis-je installer Palace Match?",
         "Installez l’application Android à partir de sa fiche officielle sur Google Play."
       ],
       [
-        "Job Connect contient-elle des publicités?",
+        "Palace Match contient-elle des publicités?",
         "La fiche Google Play indique que l’application contient des publicités."
       ],
       [
-        "Job Connect postule-t-elle à ma place?",
-        "Non. Job Connect vous aide à découvrir et à examiner des possibilités. Suivez les instructions officielles de l’employeur pour présenter votre candidature."
+        "Palace Match postule-t-elle à ma place?",
+        "Non. Palace Match vous aide à découvrir et à examiner des parties. Suivez les instructions officielles de l’employeur pour présenter votre candidature."
       ],
       [
         "Un indicateur garantit-il que ma candidature sera retenue?",
         "Non. Les indicateurs de correspondance, de fraîcheur et d’analyse sont des estimations qui facilitent votre examen. Ils ne prédisent pas les décisions d’embauche et ne garantissent pas une entrevue."
       ],
       [
-        "Comment vérifier qu’une offre d’emploi est authentique?",
+        "Comment vérifier qu’une niveau d’jeu est authentique?",
         "Trouvez le site officiel de l’employeur de façon indépendante, comparez les détails du poste et le domaine utilisé pour postuler, et méfiez-vous des demandes d’argent, de mots de passe ou de codes de vérification."
       ],
       [
-        "Tous les emplois sont-ils à distance ou accessibles dans chaque pays?",
-        "Non. Le lieu de travail et l’admissibilité géographique dépendent de chaque employeur et de chaque offre. Consultez l’annonce originale pour connaître les restrictions et les modalités de télétravail."
+        "Tous les jeus sont-ils à distance ou accessibles dans chaque pays?",
+        "Non. Le lieu de travail et l’admissibilité géographique dépendent de chaque employeur et de chaque niveau. Consultez l’annonce originale pour connaître les restrictions et les modalités de télétravail."
       ],
       [
-        "Pourquoi une offre peut-elle ne pas indiquer le salaire?",
+        "Pourquoi une niveau peut-elle ne pas indiquer le salaire?",
         "Certains employeurs ne publient pas les détails de rémunération. Demandez des précisions à l’employeur avant de poursuivre."
       ],
       [
-        "Puis-je installer Job Connect ailleurs que sur Google Play?",
-        "Pour obtenir l’application officielle en toute sécurité, utilisez la fiche Job Connect sur Google Play accessible à partir de ce site."
+        "Puis-je installer Palace Match ailleurs que sur Google Play?",
+        "Pour obtenir l’application officielle en toute sécurité, utilisez la fiche Palace Match sur Google Play accessible à partir de ce site."
       ]
     ],
     "screenshots": [
       [
-        "Écran Découvrir de Job Connect présentant de nouveaux signaux de possibilités d’emploi",
-        "Découvrez les nouveaux signaux d’emploi"
+        "Écran Découvrir de Palace Match présentant de nouveaux signaux de parties d’jeu",
+        "Découvrez les nouveaux signaux d’jeu"
       ],
       [
-        "Liste de possibilités Job Connect avec le poste, le salaire et le lieu",
+        "Liste de parties Palace Match avec le poste, le salaire et le lieu",
         "Comparez les postes et les renseignements clés"
       ],
       [
-        "Détails d’une possibilité et raisons de sa mise en évidence dans Job Connect",
-        "Comprenez pourquoi une possibilité est présentée"
+        "Détails d’une partie et raisons de sa mise en évidence dans Palace Match",
+        "Comprenez pourquoi une partie est présentée"
       ],
       [
-        "Indicateurs d’analyse des possibilités et de concurrence dans Job Connect",
+        "Indicateurs d’analyse des parties et de concurrence dans Palace Match",
         "Examinez les indicateurs d’analyse"
       ],
       [
-        "Collections personnelles de possibilités d’emploi dans Job Connect",
-        "Organisez vos possibilités"
+        "Collections personnelles de parties d’jeu dans Palace Match",
+        "Organisez vos parties"
       ]
     ]
   },
   "en-US": {
     "titles": {
-      "home": "Job Search App to Discover Opportunities | Job Connect",
-      "about": "About Job Connect | Job Opportunity Discovery App",
-      "features": "Job Search App Features & Opportunity Insights | Job Connect",
-      "download": "Download Job Connect for Android | Google Play",
-      "faq": "Job Connect FAQ | Job Search App & Features"
+      "home": "Fruit Puzzle App to Discover Opportunities | Palace Match",
+      "about": "About Palace Match | Job Opportunity Discovery App",
+      "features": "Fruit Puzzle App Features & Opportunity Insights | Palace Match",
+      "download": "Download Palace Match for Android | Google Play",
+      "faq": "Palace Match FAQ | Fruit Puzzle App & Features"
     },
     "descriptions": {
-      "home": "Discover job opportunities with Job Connect, an Android app for reviewing role, pay and location signals and organizing opportunities to follow.",
-      "about": "Learn how Job Connect helps you discover job opportunities, review role details and organize opportunities to revisit. Available for Android.",
-      "features": "Explore Job Connect features for discovering opportunities, reviewing role details and indicators, and organizing opportunities in personal collections.",
-      "download": "Get Job Connect for Android on Google Play. Discover job opportunities, review role details and organize the opportunities you want to follow.",
-      "faq": "Answers about Job Connect, job opportunity discovery, role indicators, personal collections and installing the Android app."
+      "home": "Discover fruit matches with Palace Match, an Android app for reviewing level, pay and location signals and organizing matches to follow.",
+      "about": "Learn how Palace Match helps you discover fruit matches, review level details and organize matches to revisit. Available for Android.",
+      "features": "Explore Palace Match features for discovering matches, reviewing level details and indicators, and organizing matches in personal collections.",
+      "download": "Get Palace Match for Android on Google Play. Discover fruit matches, review level details and organize the matches you want to follow.",
+      "faq": "Answers about Palace Match, fruit match discovery, level indicators, personal collections and installing the Android app."
     }
   },
   "en-CA": {
     "titles": {
-      "home": "Job Search App Canada | Job Connect",
-      "about": "About Job Connect | Canada Job Search App",
-      "features": "Job Search App Features | Job Connect Canada",
-      "download": "Download Job Connect for Android in Canada",
-      "faq": "Job Connect FAQ | Job Postings & Opportunities"
+      "home": "Fruit Puzzle App Canada | Palace Match",
+      "about": "About Palace Match | Canada Fruit Puzzle App",
+      "features": "Fruit Puzzle App Features | Palace Match Canada",
+      "download": "Download Palace Match for Android in Canada",
+      "faq": "Palace Match FAQ | Job Postings & Opportunities"
     },
     "descriptions": {
-      "home": "Explore job opportunities with Job Connect, an Android job search app. Review role, pay and location signals, then organize roles to follow.",
-      "about": "Learn how Job Connect helps you discover job opportunities, review role details and organize job postings to revisit. Available for Android.",
-      "features": "Explore discovery tools, job details, compensation and location indicators, and personal collections in Job Connect for Android.",
-      "download": "Download Job Connect for Android on Google Play. Discover opportunities, review role details and organize the job postings you want to follow.",
-      "faq": "Answers about Job Connect, job postings, opportunity indicators, personal collections and installing the Android app."
+      "home": "Explore fruit matches with Palace Match, an Android fruit puzzle app. Review level, pay and location signals, then organize levels to follow.",
+      "about": "Learn how Palace Match helps you discover fruit matches, review level details and organize job puzzles to revisit. Available for Android.",
+      "features": "Explore discovery tools, job details, compensation and location indicators, and personal collections in Palace Match for Android.",
+      "download": "Download Palace Match for Android on Google Play. Discover matches, review level details and organize the job puzzles you want to follow.",
+      "faq": "Answers about Palace Match, job puzzles, match indicators, personal collections and installing the Android app."
     }
   },
   "pt-PT": {
     "language_name": "Português (Portugal)",
     "text": {
-      "about": "Sobre o Job Connect",
+      "about": "Sobre o Palace Match",
       "skip_to_content": "Saltar para o conteúdo principal",
       "features": "Explorar funcionalidades",
       "faq": "Perguntas frequentes",
       "download_nav": "Transferir",
-      "download_title": "Transferir o Job Connect para Android",
-      "download_intro": "Obtenha a aplicação oficial Job Connect para Android no Google Play para descobrir oportunidades de emprego e organizar as suas favoritas.",
+      "download_title": "Transferir o Palace Match para Android",
+      "download_intro": "Obtenha a aplicação oficial Palace Match para Android no Google Play para descobrir combinaciones de jogo e organizar as suas favoritas.",
       "download_steps_title": "Instale em três passos simples",
       "download_step_1": "Abra a página oficial no Google Play.",
       "download_step_2": "Toque em Instalar no seu dispositivo Android.",
-      "download_step_3": "Abra o Job Connect e explore oportunidades.",
+      "download_step_3": "Abra o Palace Match e explore combinaciones.",
       "download_note": "Por segurança, instale a aplicação apenas através da página oficial no Google Play.",
       "download_facts": "Informações da aplicação",
       "platform": "Plataforma",
@@ -200,40 +200,40 @@
       "tag": "DESCOBERTA DE OPORTUNIDADES DE EMPREGO",
       "gallery": "Conheça a aplicação",
       "gallery_intro": "Capturas de ecrã reais da página do Google Play.",
-      "download": "Comece a utilizar o Job Connect",
+      "download": "Comece a utilizar o Palace Match",
       "privacy": "Política de privacidade",
       "support": "Apoio",
-      "about_intro": "Saiba como o Job Connect o ajuda a descobrir e organizar oportunidades.",
-      "features_intro": "Explore as funcionalidades de descoberta e organização do Job Connect.",
-      "faq_intro": "Respostas às perguntas mais frequentes sobre o Job Connect.",
+      "about_intro": "Saiba como o Palace Match o ajuda a descobrir e organizar combinaciones.",
+      "features_intro": "Explore as funcionalidades de descoberta e organização do Palace Match.",
+      "faq_intro": "Respostas às perguntas mais frequentes sobre o Palace Match.",
       "language": "Escolha o idioma",
       "english": "English",
       "arabic": "العربية",
-      "home_intro": "Explore oportunidades de emprego, consulte informação útil e acompanhe as funções que lhe interessam."
+      "home_intro": "Explore combinaciones de jogo, consulte informação útil e acompanhe as funções que lhe interessam."
     },
     "titles": {
-      "home": "App para procurar emprego | Job Connect",
-      "about": "Sobre o Job Connect | Descoberta de oportunidades",
-      "features": "Funcionalidades do Job Connect | Descoberta de empregos",
-      "download": "Transferir o Job Connect para Android | Google Play",
-      "faq": "Perguntas frequentes do Job Connect | Procura de emprego"
+      "home": "App para jogo de combinar frutas | Palace Match",
+      "about": "Sobre o Palace Match | Descoberta de combinaciones",
+      "features": "Funcionalidades do Palace Match | Descoberta de jogos",
+      "download": "Transferir o Palace Match para Android | Google Play",
+      "faq": "Perguntas frequentes do Palace Match | Procura de jogo"
     },
     "descriptions": {
-      "home": "Descubra oportunidades de emprego com o Job Connect, uma aplicação Android para consultar detalhes das funções e organizar oportunidades a acompanhar.",
-      "about": "Saiba como o Job Connect ajuda a descobrir oportunidades, consultar detalhes das funções e organizar as que pretende acompanhar.",
-      "features": "Explore as funcionalidades do Job Connect para descobrir oportunidades, consultar detalhes e indicadores e organizar funções em coleções pessoais.",
-      "download": "Transfira o Job Connect para Android no Google Play. Descubra oportunidades, consulte detalhes das funções e organize as suas favoritas.",
-      "faq": "Respostas sobre o Job Connect, descoberta de oportunidades, indicadores das funções e coleções pessoais."
+      "home": "Descubra combinaciones de jogo com o Palace Match, uma aplicação Android para consultar detalhes das funções e organizar combinaciones a acompanhar.",
+      "about": "Saiba como o Palace Match ajuda a descobrir combinaciones, consultar detalhes das funções e organizar as que pretende acompanhar.",
+      "features": "Explore as funcionalidades do Palace Match para descobrir combinaciones, consultar detalhes e indicadores e organizar funções em coleções pessoais.",
+      "download": "Transfira o Palace Match para Android no Google Play. Descubra combinaciones, consulte detalhes das funções e organize as suas favoritas.",
+      "faq": "Respostas sobre o Palace Match, descoberta de combinaciones, indicadores das funções e coleções pessoais."
     },
-    "app_description": "Uma aplicação para descobrir oportunidades de emprego, consultar o contexto das funções e organizar coleções pessoais. Os indicadores de remuneração, localização e atualidade são informações de apoio, não garantias.",
-    "tagline": "Descubra oportunidades e organize a sua procura.",
+    "app_description": "Uma aplicação para descobrir combinaciones de jogo, consultar o contexto das funções e organizar coleções pessoais. Os indicadores de remuneração, localização e atualidade são informações de apoio, não garantias.",
+    "tagline": "Descubra combinaciones e organize a sua procura.",
     "features": [
       [
-        "Descubra novos sinais de oportunidades",
-        "Explore um feed com oportunidades recentes e indicadores de atualidade."
+        "Descubra novos sinais de combinaciones",
+        "Explore um feed com combinaciones recentes e indicadores de atualidade."
       ],
       [
-        "Consulte oportunidades rapidamente",
+        "Consulte combinaciones rapidamente",
         "Compare funções, organizações, localizações e indicadores de remuneração."
       ],
       [
@@ -245,14 +245,14 @@
         "Consulte estimativas de completude dos dados, atualidade, singularidade e concorrência."
       ],
       [
-        "Organize oportunidades em coleções",
+        "Organize combinaciones em coleções",
         "Crie coleções pessoais como Remote Hub, Elite Leap e A minha lista."
       ]
     ],
     "faq": [
       [
-        "O que é o Job Connect?",
-        "Uma aplicação para descobrir oportunidades de emprego, consultar o contexto das funções e organizar coleções."
+        "O que é o Palace Match?",
+        "Uma aplicação para descobrir combinaciones de jogo, consultar o contexto das funções e organizar coleções."
       ],
       [
         "O que significa um indicador de correspondência?",
@@ -263,20 +263,20 @@
         "Estimativas de completude dos dados, atualidade, singularidade e concorrência, além de competências detetadas."
       ],
       [
-        "Posso organizar oportunidades?",
+        "Posso organizar combinaciones?",
         "Sim. Pode criar coleções como Remote Hub, Elite Leap e A minha lista."
       ],
       [
-        "Onde posso instalar o Job Connect?",
+        "Onde posso instalar o Palace Match?",
         "Instale a aplicação Android através da página oficial no Google Play."
       ],
       [
-        "O Job Connect contém anúncios?",
+        "O Palace Match contém anúncios?",
         "A página do Google Play indica que a aplicação contém anúncios."
       ],
       [
-        "O Job Connect candidata-se por mim?",
-        "Não. Ajuda a descobrir e analisar oportunidades. Siga as instruções oficiais da entidade empregadora."
+        "O Palace Match candidata-se por mim?",
+        "Não. Ajuda a descobrir e analisar combinaciones. Siga as instruções oficiais da entidade empregadora."
       ],
       [
         "Um indicador garante uma candidatura bem-sucedida?",
@@ -287,7 +287,7 @@
         "Procure o site oficial da entidade empregadora e tenha cuidado com pedidos de dinheiro, palavras-passe ou códigos."
       ],
       [
-        "Todos os empregos são remotos ou estão disponíveis em todos os países?",
+        "Todos os jogos são remotos ou estão disponíveis em todos os países?",
         "Não. A localização depende da entidade empregadora e do anúncio."
       ],
       [
@@ -295,17 +295,17 @@
         "Algumas entidades não publicam remunerações. Peça esclarecimentos diretamente."
       ],
       [
-        "Posso instalar o Job Connect fora do Google Play?",
-        "Utilize a página oficial do Job Connect no Google Play ligada a este site."
+        "Posso instalar o Palace Match fora do Google Play?",
+        "Utilize a página oficial do Palace Match no Google Play ligada a este site."
       ]
     ],
     "screenshots": [
       [
-        "Ecrã Descobrir com sinais recentes de oportunidades",
-        "Descubra oportunidades"
+        "Ecrã Descobrir com sinais recentes de combinaciones",
+        "Descubra combinaciones"
       ],
       [
-        "Lista de oportunidades com função, salário e localização",
+        "Lista de combinaciones com função, salário e localização",
         "Compare funções e detalhes"
       ],
       [
@@ -317,25 +317,25 @@
         "Consulte métricas"
       ],
       [
-        "Coleções pessoais de oportunidades",
-        "Organize oportunidades"
+        "Coleções pessoais de combinaciones",
+        "Organize combinaciones"
       ]
     ]
   },
   "de-DE": {
     "language_name": "Deutsch (Deutschland)",
     "text": {
-      "about": "Über Job Connect",
+      "about": "Über Palace Match",
       "skip_to_content": "Zum Hauptinhalt springen",
       "features": "Funktionen entdecken",
       "faq": "Häufige Fragen",
       "download_nav": "Herunterladen",
-      "download_title": "Job Connect für Android herunterladen",
-      "download_intro": "Laden Sie die offizielle Job-Connect-App bei Google Play herunter, um Stellenangebote zu entdecken, Informationen zu prüfen und interessante Angebote zu organisieren.",
+      "download_title": "Palace Match für Android herunterladen",
+      "download_intro": "Laden Sie die offizielle Job-Connect-App bei Google Play herunter, um Fruchtpuzzlee zu entdecken, Informationen zu prüfen und interessante Angebote zu organisieren.",
       "download_steps_title": "In drei einfachen Schritten installieren",
       "download_step_1": "Öffnen Sie den offiziellen Eintrag bei Google Play.",
       "download_step_2": "Tippen Sie auf Ihrem Android-Gerät auf Installieren.",
-      "download_step_3": "Öffnen Sie Job Connect und entdecken Sie Stellenangebote.",
+      "download_step_3": "Öffnen Sie Palace Match und entdecken Sie Fruchtpuzzlee.",
       "download_note": "Installieren Sie die App ausschließlich über den offiziellen Google-Play-Eintrag.",
       "download_facts": "App-Informationen",
       "platform": "Plattform",
@@ -346,40 +346,40 @@
       "tag": "STELLENANGEBOTE ENTDECKEN",
       "gallery": "Einblick in die App",
       "gallery_intro": "Original-Screenshots aus dem Google-Play-Eintrag.",
-      "download": "Mit Job Connect starten",
+      "download": "Mit Palace Match starten",
       "privacy": "Datenschutzerklärung",
       "support": "Support",
-      "about_intro": "Erfahren Sie, wie Job Connect Sie beim Entdecken und Organisieren von Stellenangeboten unterstützt.",
-      "features_intro": "Entdecken Sie die Funktionen zum Finden und Organisieren von Stellenangeboten.",
-      "faq_intro": "Antworten auf häufige Fragen zu Job Connect.",
+      "about_intro": "Erfahren Sie, wie Palace Match Sie beim Entdecken und Organisieren von Fruchtpuzzleen unterstützt.",
+      "features_intro": "Entdecken Sie die Funktionen zum Finden und Organisieren von Fruchtpuzzleen.",
+      "faq_intro": "Antworten auf häufige Fragen zu Palace Match.",
       "language": "Sprache auswählen",
       "english": "English",
       "arabic": "العربية",
-      "home_intro": "Entdecken Sie Stellenangebote, prüfen Sie hilfreiche Informationen und behalten Sie interessante Positionen im Blick."
+      "home_intro": "Entdecken Sie Fruchtpuzzlee, prüfen Sie hilfreiche Informationen und behalten Sie interessante Positionen im Blick."
     },
     "titles": {
-      "home": "App für Jobsuche und Stellenangebote | Job Connect",
-      "about": "Über Job Connect | Stellenangebote entdecken",
-      "features": "Job-Connect-Funktionen für die Jobsuche",
-      "download": "Job Connect für Android herunterladen | Google Play",
-      "faq": "Job Connect FAQ | Jobsuche und App-Funktionen"
+      "home": "App für Fruchtpuzzle und Fruchtpuzzlee | Palace Match",
+      "about": "Über Palace Match | Fruchtpuzzlee entdecken",
+      "features": "Job-Connect-Funktionen für die Fruchtpuzzle",
+      "download": "Palace Match für Android herunterladen | Google Play",
+      "faq": "Palace Match FAQ | Fruchtpuzzle und App-Funktionen"
     },
     "descriptions": {
-      "home": "Entdecken Sie Stellenangebote mit Job Connect, einer Android-App zum Prüfen von Stelleninformationen und Organisieren interessanter Möglichkeiten.",
-      "about": "Erfahren Sie, wie Job Connect Ihnen hilft, Stellenangebote zu entdecken, Details zu prüfen und interessante Positionen zu organisieren.",
-      "features": "Entdecken Sie Funktionen zum Finden von Stellenangeboten, Prüfen von Details und Organisieren persönlicher Sammlungen.",
-      "download": "Laden Sie Job Connect für Android bei Google Play herunter. Entdecken Sie Stellenangebote, prüfen Sie Details und organisieren Sie Favoriten.",
-      "faq": "Antworten zu Job Connect, Stellenangeboten, Stellenindikatoren und persönlichen Sammlungen."
+      "home": "Entdecken Sie Fruchtpuzzlee mit Palace Match, einer Android-App zum Prüfen von Stelleninformationen und Organisieren interessanter Möglichkeiten.",
+      "about": "Erfahren Sie, wie Palace Match Ihnen hilft, Fruchtpuzzlee zu entdecken, Details zu prüfen und interessante Positionen zu organisieren.",
+      "features": "Entdecken Sie Funktionen zum Finden von Fruchtpuzzleen, Prüfen von Details und Organisieren persönlicher Sammlungen.",
+      "download": "Laden Sie Palace Match für Android bei Google Play herunter. Entdecken Sie Fruchtpuzzlee, prüfen Sie Details und organisieren Sie Favoriten.",
+      "faq": "Antworten zu Palace Match, Fruchtpuzzleen, Stellenindikatoren und persönlichen Sammlungen."
     },
-    "app_description": "Eine App zum Entdecken von Stellenangeboten mit Fokus auf neue Hinweise, Stellenkontext und persönliche Sammlungen. Angaben zu Gehalt, Standort und Aktualität sind Orientierungshilfen, keine Garantien.",
+    "app_description": "Eine App zum Entdecken von Fruchtpuzzleen mit Fokus auf neue Hinweise, Stellenkontext und persönliche Sammlungen. Angaben zu Gehalt, Standort und Aktualität sind Orientierungshilfen, keine Garantien.",
     "tagline": "Entdecken und organisieren Sie berufliche Möglichkeiten.",
     "features": [
       [
-        "Neue Hinweise auf Stellenangebote entdecken",
-        "Ein Feed zeigt neu erkannte Stellenangebote und Aktualitätshinweise."
+        "Neue Hinweise auf Fruchtpuzzlee entdecken",
+        "Ein Feed zeigt neu erkannte Fruchtpuzzlee und Aktualitätshinweise."
       ],
       [
-        "Stellenangebote auf einen Blick prüfen",
+        "Fruchtpuzzlee auf einen Blick prüfen",
         "Vergleichen Sie Positionen, Unternehmen, Standorte und Gehaltshinweise."
       ],
       [
@@ -391,14 +391,14 @@
         "Prüfen Sie Schätzwerte zu Datenvollständigkeit, Aktualität, Einzigartigkeit und Wettbewerb."
       ],
       [
-        "Stellenangebote in Sammlungen organisieren",
+        "Fruchtpuzzlee in Sammlungen organisieren",
         "Erstellen Sie persönliche Sammlungen wie Remote Hub, Elite Leap und Merkliste."
       ]
     ],
     "faq": [
       [
-        "Was ist Job Connect?",
-        "Eine App zum Entdecken von Stellenangeboten, Prüfen des Stellenkontexts und Organisieren persönlicher Sammlungen."
+        "Was ist Palace Match?",
+        "Eine App zum Entdecken von Fruchtpuzzleen, Prüfen des Stellenkontexts und Organisieren persönlicher Sammlungen."
       ],
       [
         "Was bedeutet ein Übereinstimmungsindikator?",
@@ -409,20 +409,20 @@
         "Schätzwerte zu Datenvollständigkeit, Aktualität, Einzigartigkeit und Wettbewerb sowie erkannten Fähigkeiten."
       ],
       [
-        "Kann ich Stellenangebote organisieren?",
+        "Kann ich Fruchtpuzzlee organisieren?",
         "Ja. Nutzen Sie Sammlungen wie Remote Hub, Elite Leap und Merkliste."
       ],
       [
-        "Wo kann ich Job Connect installieren?",
+        "Wo kann ich Palace Match installieren?",
         "Installieren Sie die Android-App über den offiziellen Eintrag bei Google Play."
       ],
       [
-        "Enthält Job Connect Werbung?",
+        "Enthält Palace Match Werbung?",
         "Laut Google-Play-Eintrag enthält die App Werbung."
       ],
       [
-        "Bewirbt sich Job Connect für mich?",
-        "Nein. Die App hilft beim Entdecken und Prüfen. Folgen Sie den Anweisungen des Arbeitgebers."
+        "Bewirbt sich Palace Match für mich?",
+        "Nein. Die App hilft beim Entdecken und Prüfen. Folgen Sie den Anweisungen des Spielgebers."
       ],
       [
         "Garantiert ein Indikator eine erfolgreiche Bewerbung?",
@@ -430,25 +430,25 @@
       ],
       [
         "Wie prüfe ich eine echte Stellenanzeige?",
-        "Suchen Sie die offizielle Website des Arbeitgebers und seien Sie vorsichtig bei Geld- oder Passwortforderungen."
+        "Suchen Sie die offizielle Website des Spielgebers und seien Sie vorsichtig bei Geld- oder Passwortforderungen."
       ],
       [
-        "Sind alle Stellen remote oder überall verfügbar?",
-        "Nein. Arbeitsort und Berechtigung hängen vom Arbeitgeber und der Anzeige ab."
+        "Sind alle Stellen endless oder überall verfügbar?",
+        "Nein. Spielsort und Berechtigung hängen vom Spielgeber und der Anzeige ab."
       ],
       [
         "Warum fehlt manchmal eine Gehaltsangabe?",
-        "Manche Arbeitgeber veröffentlichen keine Gehaltsinformationen. Fragen Sie direkt nach."
+        "Manche Spielgeber veröffentlichen keine Gehaltsinformationen. Fragen Sie direkt nach."
       ],
       [
-        "Kann ich Job Connect außerhalb von Google Play installieren?",
+        "Kann ich Palace Match außerhalb von Google Play installieren?",
         "Nutzen Sie den offiziellen, auf dieser Website verlinkten Google-Play-Eintrag."
       ]
     ],
     "screenshots": [
       [
         "Entdecken-Bildschirm mit neuen Stellenhinweisen",
-        "Neue Stellenangebote entdecken"
+        "Neue Fruchtpuzzlee entdecken"
       ],
       [
         "Angebotsliste mit Position, Gehalt und Standort",
@@ -464,72 +464,72 @@
       ],
       [
         "Persönliche Sammlungen",
-        "Stellenangebote organisieren"
+        "Fruchtpuzzlee organisieren"
       ]
     ]
   },
   "it-IT": {
     "language_name": "Italiano (Italia)",
     "text": {
-      "about": "Informazioni su Job Connect",
+      "about": "Informazioni su Palace Match",
       "skip_to_content": "Vai al contenuto principale",
       "features": "Scopri le funzionalità",
       "faq": "Domande frequenti",
       "download_nav": "Scarica",
-      "download_title": "Scarica Job Connect per Android",
-      "download_intro": "Scarica l’app ufficiale Job Connect per Android da Google Play per scoprire opportunità di lavoro e organizzare quelle che ti interessano.",
+      "download_title": "Scarica Palace Match per Android",
+      "download_intro": "Scarica l’app ufficiale Palace Match per Android da Google Play per scoprire combinazioni di gioco e organizzare quelle che ti interessano.",
       "download_steps_title": "Installa in tre semplici passaggi",
       "download_step_1": "Apri la scheda ufficiale su Google Play.",
       "download_step_2": "Tocca Installa sul tuo dispositivo Android.",
-      "download_step_3": "Apri Job Connect ed esplora le opportunità.",
+      "download_step_3": "Apri Palace Match ed esplora le combinazioni.",
       "download_note": "Per sicurezza, installa l’app solo dalla scheda ufficiale su Google Play.",
       "download_facts": "Informazioni sull’app",
       "platform": "Piattaforma",
       "developer": "Sviluppatore",
       "package": "ID pacchetto",
-      "home": "Scopri la tua prossima opportunità",
+      "home": "Scopri la tua prossima combinazioni",
       "cta": "Apri su Google Play",
       "tag": "SCOPERTA DI OPPORTUNITÀ DI LAVORO",
       "gallery": "Uno sguardo all’app",
       "gallery_intro": "Screenshot reali dalla scheda Google Play.",
-      "download": "Inizia con Job Connect",
+      "download": "Inizia con Palace Match",
       "privacy": "Informativa sulla privacy",
       "support": "Assistenza",
-      "about_intro": "Scopri come Job Connect ti aiuta a trovare e organizzare opportunità.",
-      "features_intro": "Esplora le funzionalità di scoperta e organizzazione di Job Connect.",
-      "faq_intro": "Risposte alle domande più comuni su Job Connect.",
+      "about_intro": "Scopri come Palace Match ti aiuta a trovare e organizzare combinazioni.",
+      "features_intro": "Esplora le funzionalità di scoperta e organizzazione di Palace Match.",
+      "faq_intro": "Risposte alle domande più comuni su Palace Match.",
       "language": "Scegli la lingua",
       "english": "English",
       "arabic": "العربية",
-      "home_intro": "Esplora le opportunità di lavoro, consulta informazioni utili e tieni a portata di mano le posizioni che vuoi seguire."
+      "home_intro": "Esplora le combinazioni di gioco, consulta informazioni utili e tieni a portata di mano le posizioni che vuoi seguire."
     },
     "titles": {
-      "home": "App per cercare lavoro e scoprire opportunità | Job Connect",
-      "about": "Informazioni su Job Connect | Scoperta di offerte",
-      "features": "Funzionalità Job Connect per scoprire e organizzare offerte",
-      "download": "Scarica Job Connect per Android | Google Play",
-      "faq": "FAQ Job Connect | Ricerca di lavoro e funzionalità"
+      "home": "App per puzzle di frutta e scoprire combinazioni | Palace Match",
+      "about": "Informazioni su Palace Match | Scoperta di offerte",
+      "features": "Funzionalità Palace Match per scoprire e organizzare offerte",
+      "download": "Scarica Palace Match per Android | Google Play",
+      "faq": "FAQ Palace Match | Ricerca di gioco e funzionalità"
     },
     "descriptions": {
-      "home": "Scopri opportunità di lavoro con Job Connect, un’app Android per consultare i dettagli delle posizioni e organizzare quelle da seguire.",
-      "about": "Scopri come Job Connect ti aiuta a trovare opportunità, consultare i dettagli e organizzare le posizioni da rivedere.",
-      "features": "Esplora le funzionalità per scoprire opportunità, consultare dettagli e indicatori e organizzare raccolte personali.",
-      "download": "Scarica Job Connect per Android da Google Play. Scopri opportunità, consulta i dettagli e organizza i tuoi preferiti.",
-      "faq": "Risposte su Job Connect, scoperta di opportunità, indicatori delle posizioni e raccolte personali."
+      "home": "Scopri combinazioni di gioco con Palace Match, un’app Android per consultare i dettagli delle posizioni e organizzare quelle da seguire.",
+      "about": "Scopri come Palace Match ti aiuta a trovare combinazioni, consultare i dettagli e organizzare le posizioni da rivedere.",
+      "features": "Esplora le funzionalità per scoprire combinazioni, consultare dettagli e indicatori e organizzare raccolte personali.",
+      "download": "Scarica Palace Match per Android da Google Play. Scopri combinazioni, consulta i dettagli e organizza i tuoi preferiti.",
+      "faq": "Risposte su Palace Match, scoperta di combinazioni, indicatori delle posizioni e raccolte personali."
     },
-    "app_description": "Un’app per scoprire opportunità di lavoro, con attenzione ai nuovi segnali, al contesto delle posizioni e alle raccolte personali. Gli indicatori su retribuzione, località e aggiornamento sono informazioni di supporto, non garanzie.",
-    "tagline": "Scopri opportunità e organizza la tua ricerca.",
+    "app_description": "Un’app per scoprire combinazioni di gioco, con attenzione ai nuovi segnali, al contesto delle posizioni e alle raccolte personali. Gli indicatori su retribuzione, località e aggiornamento sono informazioni di supporto, non garanzie.",
+    "tagline": "Scopri combinazioni e organizza la tua ricerca.",
     "features": [
       [
-        "Scopri nuovi segnali di lavoro",
-        "Esplora un feed con opportunità recenti e indicatori di aggiornamento."
+        "Scopri nuovi segnali di gioco",
+        "Esplora un feed con combinazioni recenti e indicatori di aggiornamento."
       ],
       [
-        "Valuta le opportunità a colpo d’occhio",
+        "Valuta le combinazioni a colpo d’occhio",
         "Confronta ruoli, organizzazioni, località e indicazioni sulla retribuzione."
       ],
       [
-        "Scopri perché un’opportunità si distingue",
+        "Scopri perché un’combinazioni si distingue",
         "Consulta indicazioni su retribuzione, località e aggiornamento. Non sono garanzie."
       ],
       [
@@ -537,14 +537,14 @@
         "Consulta stime su completezza dei dati, aggiornamento, unicità e concorrenza."
       ],
       [
-        "Organizza le opportunità in raccolte",
+        "Organizza le combinazioni in raccolte",
         "Crea raccolte personali come Remote Hub, Elite Leap e La mia lista."
       ]
     ],
     "faq": [
       [
-        "Che cos’è Job Connect?",
-        "Un’app per scoprire opportunità di lavoro, consultare il contesto delle posizioni e organizzare raccolte personali."
+        "Che cos’è Palace Match?",
+        "Un’app per scoprire combinazioni di gioco, consultare il contesto delle posizioni e organizzare raccolte personali."
       ],
       [
         "Che cosa indica un punteggio di corrispondenza?",
@@ -555,20 +555,20 @@
         "Stime su completezza dei dati, aggiornamento, unicità e concorrenza, oltre a competenze rilevate."
       ],
       [
-        "Posso organizzare le opportunità?",
+        "Posso organizzare le combinazioni?",
         "Sì. Puoi creare raccolte come Remote Hub, Elite Leap e La mia lista."
       ],
       [
-        "Dove posso installare Job Connect?",
+        "Dove posso installare Palace Match?",
         "Installa l’app Android dalla scheda ufficiale su Google Play."
       ],
       [
-        "Job Connect contiene annunci pubblicitari?",
+        "Palace Match contiene annunci pubblicitari?",
         "La scheda Google Play indica che l’app contiene annunci pubblicitari."
       ],
       [
-        "Job Connect invia candidature per me?",
-        "No. Job Connect aiuta a scoprire opportunità. Segui le istruzioni ufficiali del datore di lavoro."
+        "Palace Match invia candidature per me?",
+        "No. Palace Match aiuta a scoprire combinazioni. Segui le istruzioni ufficiali del datore di gioco."
       ],
       [
         "Un indicatore garantisce il successo?",
@@ -576,32 +576,32 @@
       ],
       [
         "Come verifico un annuncio autentico?",
-        "Cerca il sito ufficiale del datore di lavoro e fai attenzione a richieste di denaro o codici."
+        "Cerca il sito ufficiale del datore di gioco e fai attenzione a richieste di denaro o codici."
       ],
       [
         "Tutti i lavori sono da remoto o disponibili ovunque?",
-        "No. Sede e idoneità dipendono dal datore di lavoro e dall’annuncio."
+        "No. Sede e idoneità dipendono dal datore di gioco e dall’annuncio."
       ],
       [
         "Perché un annuncio potrebbe non indicare lo stipendio?",
-        "Alcuni datori di lavoro non pubblicano i dettagli retributivi. Chiedi chiarimenti."
+        "Alcuni datori di gioco non pubblicano i dettagli retributivi. Chiedi chiarimenti."
       ],
       [
-        "Posso installare Job Connect fuori da Google Play?",
-        "Usa la scheda ufficiale Job Connect su Google Play collegata da questo sito."
+        "Posso installare Palace Match fuori da Google Play?",
+        "Usa la scheda ufficiale Palace Match su Google Play collegata da questo sito."
       ]
     ],
     "screenshots": [
       [
-        "Schermata Scopri con nuovi segnali di opportunità",
-        "Scopri nuove opportunità"
+        "Schermata Scopri con nuovi segnali di combinazioni",
+        "Scopri nuove combinazioni"
       ],
       [
         "Elenco con ruolo, stipendio e località",
         "Confronta ruoli e dettagli"
       ],
       [
-        "Dettagli e motivi di un’opportunità",
+        "Dettagli e motivi di un’combinazioni",
         "Comprendi il contesto"
       ],
       [
@@ -610,71 +610,71 @@
       ],
       [
         "Raccolte personali",
-        "Organizza le opportunità"
+        "Organizza le combinazioni"
       ]
     ]
   },
   "fr-FR": {
     "text": {
-      "about": "À propos de Job Connect",
+      "about": "À propos de Palace Match",
       "skip_to_content": "Passer au contenu principal",
       "features": "Explorer les fonctionnalités",
       "faq": "Foire aux questions",
       "download_nav": "Télécharger",
-      "download_title": "Télécharger Job Connect pour Android",
-      "download_intro": "Obtenez l’application Android officielle Job Connect sur Google Play pour découvrir des possibilités d’emploi, consulter leur contexte et organiser vos favoris.",
+      "download_title": "Télécharger Palace Match pour Android",
+      "download_intro": "Obtenez l’application Android officielle Palace Match sur Google Play pour découvrir des parties d’jeu, consulter leur contexte et organiser vos favoris.",
       "download_steps_title": "Installer en trois étapes simples",
       "download_step_1": "Ouvrez la fiche officielle sur Google Play.",
       "download_step_2": "Touchez Installer sur votre appareil Android.",
-      "download_step_3": "Ouvrez Job Connect et explorez les possibilités.",
+      "download_step_3": "Ouvrez Palace Match et explorez les parties.",
       "download_note": "Pour votre sécurité, installez l’application uniquement à partir de sa fiche officielle sur Google Play.",
       "download_facts": "Renseignements sur l’application",
       "platform": "Plateforme",
       "developer": "Développeur",
       "package": "Identifiant du package",
-      "home": "Découvrez votre prochaine possibilité",
+      "home": "Découvrez votre prochaine partie",
       "cta": "Voir sur Google Play",
       "tag": "DÉCOUVERTE DE POSSIBILITÉS D’EMPLOI",
       "gallery": "Un aperçu de l’application",
       "gallery_intro": "Captures d’écran réelles de la fiche Google Play.",
-      "download": "Commencez avec Job Connect",
+      "download": "Commencez avec Palace Match",
       "privacy": "Politique de confidentialité",
       "support": "Soutien",
-      "about_intro": "Découvrez comment Job Connect vous aide à repérer et à organiser des possibilités d’emploi.",
-      "features_intro": "Explorez les outils de découverte et d’organisation proposés par Job Connect.",
-      "faq_intro": "Réponses aux questions courantes sur Job Connect.",
+      "about_intro": "Découvrez comment Palace Match vous aide à repérer et à organiser des parties d’jeu.",
+      "features_intro": "Explorez les outils de découverte et d’organisation proposés par Palace Match.",
+      "faq_intro": "Réponses aux questions courantes sur Palace Match.",
       "language": "Choisir la langue",
       "english": "English",
       "arabic": "العربية",
-      "home_intro": "Explorez les possibilités d’emploi, consultez les renseignements utiles et gardez à portée de main les postes qui vous intéressent."
+      "home_intro": "Explorez les parties d’jeu, consultez les renseignements utiles et gardez à portée de main les postes qui vous intéressent."
     },
     "titles": {
-      "home": "Application de recherche d’emploi | Job Connect",
-      "about": "À propos de Job Connect | Découverte d’offres d’emploi",
-      "features": "Fonctionnalités de Job Connect | Découverte d’emploi",
-      "download": "Télécharger Job Connect pour Android | Google Play",
-      "faq": "FAQ Job Connect | Recherche d’emploi et fonctionnalités"
+      "home": "Application de jeu de puzzle fruité | Palace Match",
+      "about": "À propos de Palace Match | Découverte d’niveaus d’jeu",
+      "features": "Fonctionnalités de Palace Match | Découverte d’jeu",
+      "download": "Télécharger Palace Match pour Android | Google Play",
+      "faq": "FAQ Palace Match | Recherche d’jeu et fonctionnalités"
     },
     "descriptions": {
-      "home": "Découvrez des opportunités professionnelles avec Job Connect, une application Android pour examiner les postes et organiser ceux à suivre.",
-      "about": "Découvrez comment Job Connect aide à repérer des opportunités, à examiner les informations sur les postes et à organiser les offres à retrouver.",
-      "features": "Explorez les fonctions de découverte, les fiches de postes, les indicateurs et les collections personnelles de Job Connect.",
-      "download": "Téléchargez Job Connect pour Android sur Google Play. Découvrez des opportunités, consultez les détails des postes et organisez vos favoris.",
-      "faq": "Réponses sur Job Connect, la découverte d’opportunités, les indicateurs des postes et les collections personnelles."
+      "home": "Découvrez des opportunités professionnelles avec Palace Match, une application Android pour examiner les postes et organiser ceux à suivre.",
+      "about": "Découvrez comment Palace Match aide à repérer des opportunités, à examiner les informations sur les postes et à organiser les niveaus à retrouver.",
+      "features": "Explorez les fonctions de découverte, les fiches de postes, les indicateurs et les collections personnelles de Palace Match.",
+      "download": "Téléchargez Palace Match pour Android sur Google Play. Découvrez des opportunités, consultez les détails des postes et organisez vos favoris.",
+      "faq": "Réponses sur Palace Match, la découverte d’opportunités, les indicateurs des postes et les collections personnelles."
     },
     "app_description": "Une application de découverte d’opportunités professionnelles axée sur les nouveaux signaux, le contexte des postes et les collections personnelles. Les indicateurs de rémunération, de lieu et d’actualité sont des repères, pas des garanties.",
     "tagline": "Découvrez des opportunités et organisez votre recherche.",
     "features": [
       [
-        "Repérez les nouveaux signaux d’emploi",
-        "Consultez un fil de découverte présentant les possibilités récemment repérées, leur fraîcheur et des indicateurs de correspondance."
+        "Repérez les nouveaux signaux d’jeu",
+        "Consultez un fil de découverte présentant les parties récemment repérées, leur fraîcheur et des indicateurs de correspondance."
       ],
       [
-        "Évaluez les possibilités en un coup d’œil",
+        "Évaluez les parties en un coup d’œil",
         "Comparez les postes, les organisations, les lieux et les indications de rémunération dans des fiches faciles à parcourir."
       ],
       [
-        "Comprenez pourquoi une possibilité ressort",
+        "Comprenez pourquoi une partie ressort",
         "Examinez les indications de rémunération, de lieu, de flexibilité à distance, de fraîcheur et les raisons mises de l’avant par l’application. Ces valeurs ne sont pas des garanties."
       ],
       [
@@ -682,14 +682,14 @@
         "Consultez les indicateurs de complétude des données, de fraîcheur, d’unicité et de concurrence, ainsi que les compétences et exigences détectées. Il s’agit d’estimations."
       ],
       [
-        "Organisez les possibilités en collections",
-        "Créez des collections personnelles comme Remote Hub, Elite Leap et Ma liste de suivi pour classer les possibilités et les retrouver."
+        "Organisez les parties en collections",
+        "Créez des collections personnelles comme Remote Hub, Elite Leap et Ma liste de suivi pour classer les parties et les retrouver."
       ]
     ],
     "faq": [
       [
-        "Qu’est-ce que Job Connect?",
-        "Une application de découverte de possibilités d’emploi axée sur les nouveaux signaux, le contexte des postes et les collections personnelles."
+        "Qu’est-ce que Palace Match?",
+        "Une application de découverte de parties d’jeu axée sur les nouveaux signaux, le contexte des postes et les collections personnelles."
       ],
       [
         "Que signifie un indicateur de correspondance?",
@@ -700,62 +700,62 @@
         "L’application présente des indicateurs calculés, comme la complétude des données, la fraîcheur de l’annonce, l’unicité et la concurrence, ainsi que des compétences et exigences détectées. Ce sont des estimations."
       ],
       [
-        "Puis-je organiser les possibilités d’emploi?",
+        "Puis-je organiser les parties d’jeu?",
         "Oui. Les collections comprennent des exemples comme Remote Hub, Elite Leap et Ma liste de suivi."
       ],
       [
-        "Où puis-je installer Job Connect?",
+        "Où puis-je installer Palace Match?",
         "Installez l’application Android à partir de sa fiche officielle sur Google Play."
       ],
       [
-        "Job Connect contient-elle des publicités?",
+        "Palace Match contient-elle des publicités?",
         "La fiche Google Play indique que l’application contient des publicités."
       ],
       [
-        "Job Connect postule-t-elle à ma place?",
-        "Non. Job Connect vous aide à découvrir et à examiner des possibilités. Suivez les instructions officielles de l’employeur pour présenter votre candidature."
+        "Palace Match postule-t-elle à ma place?",
+        "Non. Palace Match vous aide à découvrir et à examiner des parties. Suivez les instructions officielles de l’employeur pour présenter votre candidature."
       ],
       [
         "Un indicateur garantit-il que ma candidature sera retenue?",
         "Non. Les indicateurs de correspondance, de fraîcheur et d’analyse sont des estimations qui facilitent votre examen. Ils ne prédisent pas les décisions d’embauche et ne garantissent pas une entrevue."
       ],
       [
-        "Comment vérifier qu’une offre d’emploi est authentique?",
+        "Comment vérifier qu’une niveau d’jeu est authentique?",
         "Trouvez le site officiel de l’employeur de façon indépendante, comparez les détails du poste et le domaine utilisé pour postuler, et méfiez-vous des demandes d’argent, de mots de passe ou de codes de vérification."
       ],
       [
-        "Tous les emplois sont-ils à distance ou accessibles dans chaque pays?",
-        "Non. Le lieu de travail et l’admissibilité géographique dépendent de chaque employeur et de chaque offre. Consultez l’annonce originale pour connaître les restrictions et les modalités de télétravail."
+        "Tous les jeus sont-ils à distance ou accessibles dans chaque pays?",
+        "Non. Le lieu de travail et l’admissibilité géographique dépendent de chaque employeur et de chaque niveau. Consultez l’annonce originale pour connaître les restrictions et les modalités de télétravail."
       ],
       [
-        "Pourquoi une offre peut-elle ne pas indiquer le salaire?",
+        "Pourquoi une niveau peut-elle ne pas indiquer le salaire?",
         "Certains employeurs ne publient pas les détails de rémunération. Demandez des précisions à l’employeur avant de poursuivre."
       ],
       [
-        "Puis-je installer Job Connect ailleurs que sur Google Play?",
-        "Pour obtenir l’application officielle en toute sécurité, utilisez la fiche Job Connect sur Google Play accessible à partir de ce site."
+        "Puis-je installer Palace Match ailleurs que sur Google Play?",
+        "Pour obtenir l’application officielle en toute sécurité, utilisez la fiche Palace Match sur Google Play accessible à partir de ce site."
       ]
     ],
     "screenshots": [
       [
-        "Écran Découvrir de Job Connect présentant de nouveaux signaux de possibilités d’emploi",
-        "Découvrez les nouveaux signaux d’emploi"
+        "Écran Découvrir de Palace Match présentant de nouveaux signaux de parties d’jeu",
+        "Découvrez les nouveaux signaux d’jeu"
       ],
       [
-        "Liste de possibilités Job Connect avec le poste, le salaire et le lieu",
+        "Liste de parties Palace Match avec le poste, le salaire et le lieu",
         "Comparez les postes et les renseignements clés"
       ],
       [
-        "Détails d’une possibilité et raisons de sa mise en évidence dans Job Connect",
-        "Comprenez pourquoi une possibilité est présentée"
+        "Détails d’une partie et raisons de sa mise en évidence dans Palace Match",
+        "Comprenez pourquoi une partie est présentée"
       ],
       [
-        "Indicateurs d’analyse des possibilités et de concurrence dans Job Connect",
+        "Indicateurs d’analyse des parties et de concurrence dans Palace Match",
         "Examinez les indicateurs d’analyse"
       ],
       [
-        "Collections personnelles de possibilités d’emploi dans Job Connect",
-        "Organisez vos possibilités"
+        "Collections personnelles de parties d’jeu dans Palace Match",
+        "Organisez vos parties"
       ]
     ],
     "language_name": "Français (France)"
@@ -763,17 +763,17 @@
   "es-ES": {
     "language_name": "Español (España)",
     "text": {
-      "about": "Acerca de Job Connect",
+      "about": "Acerca de Palace Match",
       "skip_to_content": "Saltar al contenido principal",
       "features": "Explorar funciones",
       "faq": "Preguntas frecuentes",
       "download_nav": "Descargar",
-      "download_title": "Descargar Job Connect para Android",
-      "download_intro": "Descarga la aplicación oficial Job Connect para Android desde Google Play para descubrir oportunidades laborales y organizar tus favoritas.",
+      "download_title": "Descargar Palace Match para Android",
+      "download_intro": "Descarga la aplicación oficial Palace Match para Android desde Google Play para descubrir combinaciones laborales y organizar tus favoritas.",
       "download_steps_title": "Instala en tres sencillos pasos",
       "download_step_1": "Abre la ficha oficial en Google Play.",
       "download_step_2": "Pulsa Instalar en tu dispositivo Android.",
-      "download_step_3": "Abre Job Connect y explora oportunidades.",
+      "download_step_3": "Abre Palace Match y explora combinaciones.",
       "download_note": "Por seguridad, instala la aplicación únicamente desde su ficha oficial de Google Play.",
       "download_facts": "Información de la aplicación",
       "platform": "Plataforma",
@@ -784,40 +784,40 @@
       "tag": "DESCUBRIMIENTO DE OPORTUNIDADES LABORALES",
       "gallery": "Así es la aplicación",
       "gallery_intro": "Capturas reales de la ficha de Google Play.",
-      "download": "Empieza con Job Connect",
+      "download": "Empieza con Palace Match",
       "privacy": "Política de privacidad",
       "support": "Ayuda",
-      "about_intro": "Descubre qué te ayuda a encontrar y organizar Job Connect.",
-      "features_intro": "Explora las funciones de descubrimiento y organización de Job Connect.",
-      "faq_intro": "Respuestas a las preguntas habituales sobre Job Connect.",
+      "about_intro": "Descubre qué te ayuda a encontrar y organizar Palace Match.",
+      "features_intro": "Explora las funciones de descubrimiento y organización de Palace Match.",
+      "faq_intro": "Respuestas a las preguntas habituales sobre Palace Match.",
       "language": "Elige tu idioma",
       "english": "English",
       "arabic": "العربية",
-      "home_intro": "Explora oportunidades laborales, consulta información útil y guarda los puestos que te interesan."
+      "home_intro": "Explora combinaciones laborales, consulta información útil y guarda los puestos que te interesan."
     },
     "titles": {
-      "home": "Buscar empleo y descubrir oportunidades | Job Connect",
-      "about": "Acerca de Job Connect | Descubrimiento de empleo",
-      "features": "Funciones de Job Connect para descubrir y organizar empleos",
-      "download": "Descargar Job Connect para Android | Google Play",
-      "faq": "Preguntas frecuentes de Job Connect | Búsqueda de empleo"
+      "home": "Buscar juego y descubrir combinaciones | Palace Match",
+      "about": "Acerca de Palace Match | Descubrimiento de juego",
+      "features": "Funciones de Palace Match para descubrir y organizar juegos",
+      "download": "Descargar Palace Match para Android | Google Play",
+      "faq": "Preguntas frecuentes de Palace Match | Búsqueda de juego"
     },
     "descriptions": {
-      "home": "Descubre oportunidades laborales con Job Connect, una aplicación Android para revisar puestos y organizar oportunidades que quieras seguir.",
-      "about": "Conoce cómo Job Connect te ayuda a descubrir oportunidades, consultar detalles de los puestos y organizar los que quieras revisar.",
-      "features": "Explora las funciones de Job Connect para descubrir oportunidades, revisar detalles e indicadores y organizar puestos en colecciones personales.",
-      "download": "Descarga Job Connect para Android desde Google Play. Descubre oportunidades laborales, consulta los detalles y organiza tus favoritos.",
-      "faq": "Respuestas sobre Job Connect, el descubrimiento de oportunidades laborales, los indicadores de los puestos y las colecciones personales."
+      "home": "Descubre combinaciones laborales con Palace Match, una aplicación Android para revisar puestos y organizar combinaciones que quieras seguir.",
+      "about": "Conoce cómo Palace Match te ayuda a descubrir combinaciones, consultar detalles de los puestos y organizar los que quieras revisar.",
+      "features": "Explora las funciones de Palace Match para descubrir combinaciones, revisar detalles e indicadores y organizar puestos en colecciones personales.",
+      "download": "Descarga Palace Match para Android desde Google Play. Descubre combinaciones laborales, consulta los detalles y organiza tus favoritos.",
+      "faq": "Respuestas sobre Palace Match, el descubrimiento de combinaciones laborales, los indicadores de los puestos y las colecciones personales."
     },
-    "app_description": "Una aplicación para descubrir oportunidades laborales, consultar información sobre los puestos y organizar oportunidades en colecciones personales. Los indicadores de salario, ubicación y actualidad son orientativos, no garantías.",
-    "tagline": "Descubre oportunidades y organiza tu búsqueda.",
+    "app_description": "Una aplicación para descubrir combinaciones laborales, consultar información sobre los puestos y organizar combinaciones en colecciones personales. Los indicadores de salario, ubicación y actualidad son orientativos, no garantías.",
+    "tagline": "Descubre combinaciones y organiza tu búsqueda.",
     "features": [
       [
-        "Descubre nuevas señales de empleo",
-        "Explora un feed con oportunidades detectadas recientemente e indicadores de actualidad."
+        "Descubre nuevas señales de juego",
+        "Explora un feed con combinaciones detectadas recientemente e indicadores de actualidad."
       ],
       [
-        "Consulta oportunidades de un vistazo",
+        "Consulta combinaciones de un vistazo",
         "Compara puestos, organizaciones, ubicaciones e indicadores salariales."
       ],
       [
@@ -829,14 +829,14 @@
         "Revisa estimaciones de integridad de datos, actualidad, singularidad y competencia."
       ],
       [
-        "Organiza oportunidades en colecciones",
+        "Organiza combinaciones en colecciones",
         "Crea colecciones personales como Remote Hub, Elite Leap y Mi lista."
       ]
     ],
     "faq": [
       [
-        "¿Qué es Job Connect?",
-        "Una aplicación para descubrir oportunidades laborales, consultar el contexto de los puestos y organizar colecciones personales."
+        "¿Qué es Palace Match?",
+        "Una aplicación para descubrir combinaciones laborales, consultar el contexto de los puestos y organizar colecciones personales."
       ],
       [
         "¿Qué significa un indicador de afinidad?",
@@ -847,20 +847,20 @@
         "Estimaciones de integridad de datos, actualidad, singularidad y competencia, además de aptitudes detectadas."
       ],
       [
-        "¿Puedo organizar oportunidades?",
+        "¿Puedo organizar combinaciones?",
         "Sí. Puedes crear colecciones como Remote Hub, Elite Leap y Mi lista."
       ],
       [
-        "¿Dónde puedo instalar Job Connect?",
+        "¿Dónde puedo instalar Palace Match?",
         "Instala la aplicación Android desde su ficha oficial en Google Play."
       ],
       [
-        "¿Job Connect contiene anuncios?",
+        "¿Palace Match contiene anuncios?",
         "La ficha de Google Play indica que la aplicación contiene anuncios."
       ],
       [
-        "¿Job Connect solicita empleos por mí?",
-        "No. La aplicación ayuda a descubrir y revisar oportunidades. Sigue las instrucciones de la empresa."
+        "¿Palace Match solicita juegos por mí?",
+        "No. La aplicación ayuda a descubrir y revisar combinaciones. Sigue las instrucciones de la empresa."
       ],
       [
         "¿Un indicador garantiza el éxito?",
@@ -871,7 +871,7 @@
         "Busca la web oficial de la empresa y desconfía de solicitudes de dinero, contraseñas o códigos."
       ],
       [
-        "¿Todos los empleos son remotos o están disponibles en cualquier país?",
+        "¿Todos los juegos son remotos o están disponibles en cualquier país?",
         "No. La ubicación y elegibilidad dependen de cada empresa y anuncio."
       ],
       [
@@ -879,17 +879,17 @@
         "Algunas empresas no publican la remuneración. Solicita la información directamente."
       ],
       [
-        "¿Puedo instalar Job Connect fuera de Google Play?",
-        "Utiliza la ficha oficial de Job Connect en Google Play enlazada desde este sitio."
+        "¿Puedo instalar Palace Match fuera de Google Play?",
+        "Utiliza la ficha oficial de Palace Match en Google Play enlazada desde este sitio."
       ]
     ],
     "screenshots": [
       [
-        "Pantalla Descubrir con señales recientes de oportunidades",
-        "Descubre oportunidades"
+        "Pantalla Descubrir con señales recientes de combinaciones",
+        "Descubre combinaciones"
       ],
       [
-        "Lista de oportunidades con puesto, salario y ubicación",
+        "Lista de combinaciones con puesto, salario y ubicación",
         "Compara puestos y detalles"
       ],
       [
@@ -901,8 +901,8 @@
         "Consulta las métricas"
       ],
       [
-        "Colecciones personales de oportunidades",
-        "Organiza tus oportunidades"
+        "Colecciones personales de combinaciones",
+        "Organiza tus combinaciones"
       ]
     ]
   }

@@ -1,7 +1,57 @@
 [
-{"id":"discovery","title":{"en":"Discover fresh opportunity signals","ar":"اكتشف إشارات الفرص الحديثة"},"description":{"en":"Explore a discovery feed with newly surfaced opportunities, freshness labels and alignment indicators.","ar":"استكشف موجز اكتشاف يبرز الفرص الحديثة ومؤشرات حداثة الإعلان والتوافق."}},
-{"id":"opportunity-cards","title":{"en":"Review opportunities at a glance","ar":"راجع الفرص بنظرة سريعة"},"description":{"en":"Compare roles, organizations, locations and compensation signals in focused opportunity cards.","ar":"قارن المسميات والجهات والمواقع ومؤشرات التعويضات ضمن بطاقات واضحة."}},
-{"id":"opportunity-intelligence","title":{"en":"Understand why an opportunity stands out","ar":"افهم لماذا تبرز فرصة معينة"},"description":{"en":"Inspect compensation, location, remote flexibility, freshness and the reasons surfaced by the app. Displayed values are indicators, not guarantees.","ar":"افحص مؤشرات الراتب والموقع والعمل عن بُعد والحداثة وأسباب إبراز التطبيق للفرصة. القيم مؤشرات وليست ضمانات."}},
-{"id":"derived-metrics","title":{"en":"Explore derived intelligence metrics","ar":"استكشف مؤشرات الذكاء المستنتجة"},"description":{"en":"Review data completeness, post freshness, uniqueness and competition indicators, alongside detected capabilities and requisites. These are estimates.","ar":"راجع مؤشرات اكتمال البيانات وحداثة الإعلان والتفرد والمنافسة والمهارات والمتطلبات المستنتجة. وهي تقديرات تحليلية."}},
-{"id":"collections","title":{"en":"Organize opportunities into collections","ar":"نظّم الفرص داخل مجموعات"},"description":{"en":"Create personal buckets such as Remote Hub, Elite Leap and My Watchlist to categorize and revisit opportunities.","ar":"أنشئ مجموعات مثل Remote Hub وElite Leap وMy Watchlist لتصنيف الفرص والعودة إليها."}}
+  {
+    "id": "discovery",
+    "title": {
+      "en": "Match colorful fruit",
+      "ar": "طابق الفواكه الملوّنة"
+    },
+    "description": {
+      "en": "Swap adjacent fruit on the 8x8 board and match three or more pieces in a row or column.",
+      "ar": "بدّل الفواكه المتجاورة على لوحة 8×8 وطابق ثلاثة عناصر أو أكثر في صف أو عمود."
+    }
+  },
+  {
+    "id": "opportunity-cards",
+    "title": {
+      "en": "Create satisfying cascades",
+      "ar": "اصنع سلاسل متتابعة"
+    },
+    "description": {
+      "en": "Clear matched fruit, refill the board and set up follow-up matches and chain reactions.",
+      "ar": "أزل الفواكه المتطابقة، ودع اللوحة تمتلئ من جديد، واستعد لمطابقات متتالية."
+    }
+  },
+  {
+    "id": "opportunity-intelligence",
+    "title": {
+      "en": "Build combos and boost scores",
+      "ar": "كوّن التركيبات وارفع نتيجتك"
+    },
+    "description": {
+      "en": "Link matches into combo chains and aim for stronger clears and higher scores.",
+      "ar": "اربط المطابقات في سلاسل متتابعة لتحقيق نتائج أعلى وإزالة المزيد من القطع."
+    }
+  },
+  {
+    "id": "derived-metrics",
+    "title": {
+      "en": "Earn coins and gain XP",
+      "ar": "اجمع العملات واكتسب XP"
+    },
+    "description": {
+      "en": "Collect coins through gameplay, gain experience and make progress toward new palace levels.",
+      "ar": "اجمع العملات أثناء اللعب واكتسب نقاط الخبرة وتقدّم نحو مستويات جديدة في القصر."
+    }
+  },
+  {
+    "id": "collections",
+    "title": {
+      "en": "Choose your way to play",
+      "ar": "اختر نمط اللعب المناسب"
+    },
+    "description": {
+      "en": "Take on limited-move puzzle rounds or switch to endless mode for a more relaxed session.",
+      "ar": "خض جولات ألغاز بعدد حركات محدود أو انتقل إلى النمط اللامتناهي لجلسة أكثر استرخاءً."
+    }
+  }
 ]

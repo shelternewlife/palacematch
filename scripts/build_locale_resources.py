@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the four career-resource hub routes for every published market locale."""
+"""Generate the four game-resource hub routes for every published market locale."""
 import html
 import json
 import pathlib
@@ -20,63 +20,63 @@ CONTENT = {
         "language_name": "US English",
         "nav": {"tips": "Tips", "blog": "Blog", "guide": "User guide", "comparison": "Compare"},
         "pages": {
-            "tips": ("Job Search Tips | Job Connect", "Practical job-search tips for reviewing opportunities, checking listings and organizing your next steps.", "Job search tips", "Build a focused search, verify the original listing and use app indicators as context—not guarantees.", [
-                ("Set a focused search", "Choose relevant roles and priorities so you can assess opportunities consistently.", "guide"),
+            "tips": ("Fruit Puzzle Tips | Palace Match", "Practical fruit-puzzle tips for reviewing fruit matches, checking listings and organizing your next steps.", "Job search tips", "Build a focused search, verify the original listing and use app indicators as context—not guarantees.", [
+                ("Set a focused search", "Choose relevant roles and priorities so you can assess fruit matches consistently.", "guide"),
                 ("Verify every listing", "Check the employer, requirements, location and application instructions at the original source.", "blog"),
                 ("Use indicators carefully", "Treat freshness, match and competition signals as supporting information, not promises.", "comparison")]),
-            "blog": ("Job Search Blog & Career Resources | Job Connect", "Career resources from Job Connect: practical tips, a user guide and a clear workflow comparison.", "Job Connect career resources", "Explore practical resources to make your job search more organized, informed and careful.", [
-                ("Job search tips", "Practical habits for evaluating opportunities and protecting your time and information.", "tips"),
-                ("User guide", "A concise walkthrough of discovering, reviewing and organizing opportunities with Job Connect.", "guide"),
-                ("Compare workflows", "Understand how an opportunity-discovery app fits alongside traditional job-search methods.", "comparison")]),
-            "guide": ("Job Connect User Guide | Job Search App", "Learn how to explore opportunities, review role context and organize jobs with Job Connect.", "Job Connect user guide", "Follow a simple workflow for discovering opportunities, reviewing details and keeping track of roles.", [
-                ("Discover opportunities", "Explore the discovery experience and decide which roles deserve a closer look.", "tips"),
+            "blog": ("Fruit Puzzle Blog & Career Resources | Palace Match", "Career resources from Palace Match: practical tips, a user guide and a clear workflow comparison.", "Palace Match game resources", "Explore practical resources to make your fruit puzzle more organized, informed and careful.", [
+                ("Job search tips", "Practical habits for evaluating fruit matches and protecting your time and information.", "tips"),
+                ("User guide", "A concise walkthrough of discovering, reviewing and organizing fruit matches with Palace Match.", "guide"),
+                ("Compare workflows", "Understand how an fruit match-discovery app fits alongside traditional fruit-puzzle methods.", "comparison")]),
+            "guide": ("Palace Match User Guide | Fruit Puzzle App", "Learn how to explore fruit matches, review role context and organize levels with Palace Match.", "Palace Match user guide", "Follow a simple workflow for discovering fruit matches, reviewing details and keeping track of roles.", [
+                ("Discover fruit matches", "Explore the discovery experience and decide which roles deserve a closer look.", "tips"),
                 ("Review role details", "Read responsibilities and requirements, and verify important details with the employer.", "blog"),
-                ("Organize your search", "Use personal collections to group opportunities you want to revisit.", "comparison")]),
-            "comparison": ("Job Search Workflow Comparison | Job Connect", "A qualitative comparison of app-based opportunity discovery and traditional job-search routines.", "Compare job-search workflows", "See where an opportunity-discovery app can help—and what still requires independent verification.", [
-                ("Finding opportunities", "A dedicated discovery view can reduce the need to revisit scattered sources manually.", "guide"),
+                ("Organize your search", "Use personal collections to group fruit matches you want to revisit.", "comparison")]),
+            "comparison": ("Fruit Puzzle Workflow Comparison | Palace Match", "A qualitative comparison of app-based fruit match discovery and traditional fruit-puzzle routines.", "Compare fruit-puzzle workflows", "See where an fruit match-discovery app can help—and what still requires independent verification.", [
+                ("Finding fruit matches", "A dedicated discovery view can reduce the need to revisit scattered sources manually.", "guide"),
                 ("Reviewing context", "App indicators add context, while the original employer listing remains the source to verify.", "tips"),
-                ("Organizing roles", "Personal collections can keep opportunities together for later review and follow-up.", "blog")])
+                ("Organizing roles", "Personal collections can keep fruit matches together for later review and follow-up.", "blog")])
         }
     },
     "en-CA": {
         "language_name": "English (Canada)",
         "nav": {"tips": "Tips", "blog": "Blog", "guide": "User guide", "comparison": "Compare"},
         "pages": {
-            "tips": ("Job Search Tips | Job Connect", "Practical job-search tips for reviewing opportunities, checking job postings and organizing next steps.", "Job search tips", "Build a focused search, verify the original job posting and use app indicators as context—not guarantees.", [
-                ("Set a focused search", "Choose relevant roles and priorities so you can assess opportunities consistently.", "guide"),
+            "tips": ("Fruit Puzzle Tips | Palace Match", "Practical fruit-puzzle tips for reviewing fruit matches, checking fruit pieces and organizing next steps.", "Job search tips", "Build a focused search, verify the original fruit piece and use app indicators as context—not guarantees.", [
+                ("Set a focused search", "Choose relevant roles and priorities so you can assess fruit matches consistently.", "guide"),
                 ("Verify every posting", "Check the employer, requirements, location and application instructions at the original source.", "blog"),
                 ("Use indicators carefully", "Treat freshness, match and competition signals as supporting information, not promises.", "comparison")]),
-            "blog": ("Job Search Blog & Career Resources | Job Connect", "Career resources from Job Connect: practical tips, a user guide and a clear workflow comparison.", "Job Connect career resources", "Explore practical resources to make your job search more organized, informed and careful.", [
-                ("Job search tips", "Practical habits for evaluating opportunities and protecting your time and information.", "tips"),
-                ("User guide", "A concise walkthrough of discovering, reviewing and organizing opportunities with Job Connect.", "guide"),
-                ("Compare workflows", "Understand how an opportunity-discovery app fits alongside traditional job-search methods.", "comparison")]),
-            "guide": ("Job Connect User Guide | Job Search App", "Learn how to explore opportunities, review role context and organize jobs with Job Connect.", "Job Connect user guide", "Follow a simple workflow for discovering opportunities, reviewing details and keeping track of roles.", [
-                ("Discover opportunities", "Explore the discovery experience and decide which roles deserve a closer look.", "tips"),
-                ("Review job details", "Read responsibilities and requirements, and verify important details with the employer.", "blog"),
-                ("Organize your search", "Use personal collections to group opportunities you want to revisit.", "comparison")]),
-            "comparison": ("Job Search Workflow Comparison | Job Connect", "A qualitative comparison of app-based opportunity discovery and traditional job-search routines.", "Compare job-search workflows", "See where an opportunity-discovery app can help—and what still requires independent verification.", [
-                ("Finding opportunities", "A dedicated discovery view can reduce the need to revisit scattered sources manually.", "guide"),
+            "blog": ("Fruit Puzzle Blog & Career Resources | Palace Match", "Career resources from Palace Match: practical tips, a user guide and a clear workflow comparison.", "Palace Match game resources", "Explore practical resources to make your fruit puzzle more organized, informed and careful.", [
+                ("Job search tips", "Practical habits for evaluating fruit matches and protecting your time and information.", "tips"),
+                ("User guide", "A concise walkthrough of discovering, reviewing and organizing fruit matches with Palace Match.", "guide"),
+                ("Compare workflows", "Understand how an fruit match-discovery app fits alongside traditional fruit-puzzle methods.", "comparison")]),
+            "guide": ("Palace Match User Guide | Fruit Puzzle App", "Learn how to explore fruit matches, review role context and organize levels with Palace Match.", "Palace Match user guide", "Follow a simple workflow for discovering fruit matches, reviewing details and keeping track of roles.", [
+                ("Discover fruit matches", "Explore the discovery experience and decide which roles deserve a closer look.", "tips"),
+                ("Review puzzle details", "Read responsibilities and requirements, and verify important details with the employer.", "blog"),
+                ("Organize your search", "Use personal collections to group fruit matches you want to revisit.", "comparison")]),
+            "comparison": ("Fruit Puzzle Workflow Comparison | Palace Match", "A qualitative comparison of app-based fruit match discovery and traditional fruit-puzzle routines.", "Compare fruit-puzzle workflows", "See where an fruit match-discovery app can help—and what still requires independent verification.", [
+                ("Finding fruit matches", "A dedicated discovery view can reduce the need to revisit scattered sources manually.", "guide"),
                 ("Reviewing context", "App indicators add context, while the original employer posting remains the source to verify.", "tips"),
-                ("Organizing roles", "Personal collections can keep opportunities together for later review and follow-up.", "blog")])
+                ("Organizing roles", "Personal collections can keep fruit matches together for later review and follow-up.", "blog")])
         }
     },
     "fr-CA": {
         "language_name": "Français (Canada)",
         "nav": {"tips": "Conseils", "blog": "Blogue", "guide": "Guide", "comparison": "Comparer"},
         "pages": {
-            "tips": ("Conseils pour la recherche d’emploi | Job Connect", "Des conseils pratiques pour examiner les possibilités, vérifier les offres et organiser vos prochaines étapes.", "Conseils pour la recherche d’emploi", "Définissez une recherche ciblée, vérifiez l’offre originale et utilisez les indicateurs comme contexte, jamais comme garantie.", [
+            "tips": ("Conseils pour la jeu de puzzle fruité | Palace Match", "Des conseils pratiques pour examiner les possibilités, vérifier les offres et organiser vos prochaines étapes.", "Conseils pour la jeu de puzzle fruité", "Définissez une recherche ciblée, vérifiez l’offre originale et utilisez les indicateurs comme contexte, jamais comme garantie.", [
                 ("Ciblez votre recherche", "Choisissez les postes et les priorités qui correspondent à vos objectifs pour évaluer les possibilités avec méthode.", "guide"),
                 ("Vérifiez chaque offre", "Consultez la source originale pour confirmer l’employeur, les exigences, le lieu et les modalités de candidature.", "blog"),
                 ("Interprétez les indicateurs avec prudence", "La fraîcheur, la correspondance et la concurrence sont des indices utiles, pas des promesses.", "comparison")]),
-            "blog": ("Blogue et ressources carrière | Job Connect", "Des ressources Job Connect : conseils pratiques, guide d’utilisation et comparaison des méthodes de recherche.", "Ressources carrière Job Connect", "Consultez des ressources pratiques pour organiser votre recherche d’emploi et examiner les possibilités avec discernement.", [
-                ("Conseils de recherche d’emploi", "Des habitudes utiles pour évaluer les possibilités et protéger votre temps et vos renseignements.", "tips"),
-                ("Guide d’utilisation", "Un parcours simple pour découvrir, examiner et organiser les possibilités avec Job Connect.", "guide"),
+            "blog": ("Blogue et ressources jeu | Palace Match", "Des ressources Palace Match : conseils pratiques, guide d’utilisation et comparaison des méthodes de recherche.", "Ressources jeu Palace Match", "Consultez des ressources pratiques pour organiser votre jeu de puzzle fruité et examiner les possibilités avec discernement.", [
+                ("Conseils de jeu de puzzle fruité", "Des habitudes utiles pour évaluer les possibilités et protéger votre temps et vos renseignements.", "tips"),
+                ("Guide d’utilisation", "Un parcours simple pour découvrir, examiner et organiser les possibilités avec Palace Match.", "guide"),
                 ("Comparer les méthodes", "Comprenez comment une application de découverte complète les méthodes traditionnelles de recherche.", "comparison")]),
-            "guide": ("Guide d’utilisation de Job Connect | Android", "Apprenez à découvrir des possibilités, à examiner leur contexte et à organiser les postes avec Job Connect.", "Guide d’utilisation de Job Connect", "Suivez un parcours simple pour découvrir des possibilités, examiner les détails et retrouver les postes à suivre.", [
+            "guide": ("Guide d’utilisation de Palace Match | Android", "Apprenez à découvrir des possibilités, à examiner leur contexte et à organiser les postes avec Palace Match.", "Guide d’utilisation de Palace Match", "Suivez un parcours simple pour découvrir des possibilités, examiner les détails et retrouver les postes à suivre.", [
                 ("Découvrir des possibilités", "Explorez l’écran de découverte et repérez les postes qui méritent un examen plus approfondi.", "tips"),
                 ("Examiner les détails", "Lisez les responsabilités et les exigences, puis vérifiez les renseignements importants auprès de l’employeur.", "blog"),
                 ("Organiser votre recherche", "Utilisez les collections personnelles pour regrouper les possibilités à consulter de nouveau.", "comparison")]),
-            "comparison": ("Comparer les méthodes de recherche d’emploi | Job Connect", "Une comparaison qualitative entre la découverte dans une application et les méthodes traditionnelles de recherche d’emploi.", "Comparer les méthodes de recherche d’emploi", "Découvrez comment une application de découverte peut vous aider et quelles informations doivent toujours être vérifiées.", [
+            "comparison": ("Comparer les méthodes de jeu de puzzle fruité | Palace Match", "Une comparaison qualitative entre la découverte dans une application et les méthodes traditionnelles de jeu de puzzle fruité.", "Comparer les méthodes de jeu de puzzle fruité", "Découvrez comment une application de découverte peut vous aider et quelles informations doivent toujours être vérifiées.", [
                 ("Repérer des possibilités", "Un fil de découverte dédié peut réduire les recherches manuelles sur plusieurs sources.", "guide"),
                 ("Examiner le contexte", "Les indicateurs ajoutent du contexte, mais l’offre originale de l’employeur reste la source à vérifier.", "tips"),
                 ("Organiser les postes", "Les collections personnelles regroupent les possibilités à consulter et à suivre plus tard.", "blog")])
@@ -270,7 +270,7 @@ def build_localized_resource_pages():
 
     llms_path = DIST / "llms.txt"
     llms = llms_path.read_text(encoding="utf-8")
-    llms += "\n## Localized career resources\n"
+    llms += "\n## Localized game resources\n"
     for locale in published:
         for tail in HUBS:
             llms += f"- {locale} {tail}: {route(locale, tail)}\n"

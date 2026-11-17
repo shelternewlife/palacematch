@@ -58,7 +58,7 @@ class SiteTests(unittest.TestCase):
         self.assertIn("8mOiNMu4Tn477yFaR-IWrNQGhdqH1TpF6NKKoN94Oms", source)
 
     def test_identity_and_store_url(self):
-        self.assertEqual(APP["name"], "Job Connect")
+        self.assertEqual(APP["name"], "Palace Match")
         self.assertIn(APP["package_id"], APP["google_play_url"])
 
     def test_all_expected_routes_exist(self):
@@ -69,8 +69,8 @@ class SiteTests(unittest.TestCase):
 
     def test_page_content_is_section_specific(self):
         expected = {
-            "en": {"about": "About Job Connect", "features": "Explore the features", "faq": "Frequently asked questions"},
-            "ar": {"about": "عن Job Connect", "features": "استكشف المزايا", "faq": "الأسئلة الشائعة"},
+            "en": {"about": "About Palace Match", "features": "Explore the features", "faq": "Frequently asked questions"},
+            "ar": {"about": "عن Palace Match", "features": "استكشف المزايا", "faq": "الأسئلة الشائعة"},
         }
         for lang in ("en", "ar"):
             headings = []
@@ -401,7 +401,7 @@ class SiteTests(unittest.TestCase):
 
     def test_keyword_targets_are_documented_without_fake_volume_claims(self):
         targets = json.loads((ROOT / "content/seo-keywords.json").read_text(encoding="utf-8"))
-        self.assertIn("job search app", targets["en"]["primary"])
+        self.assertIn("fruit match 3 game", targets["en"]["primary"])
         self.assertIn("البحث عن عمل", targets["ar"]["primary"])
         self.assertIn("not verified", targets["note"])
 

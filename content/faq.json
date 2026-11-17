@@ -1,122 +1,122 @@
 [
   {
     "q": {
-      "en": "What is Job Connect?",
-      "ar": "ما هو Job Connect؟"
+      "en": "What is Palace Match?",
+      "ar": "ما هي لعبة Palace Match؟"
     },
     "a": {
-      "en": "A job-opportunity discovery app focused on fresh signals, opportunity context and personal collections.",
-      "ar": "تطبيق لاكتشاف فرص العمل يركز على الإشارات الحديثة وسياق الفرص والمجموعات الشخصية."
+      "en": "Palace Match is a casual fruit match-3 puzzle game where you swap adjacent fruit, make matches and progress through palace levels.",
+      "ar": "Palace Match لعبة ألغاز لمطابقة الفواكه، حيث تبدّل القطع المتجاورة وتحقق المطابقات وتتقدم عبر مستويات القصر."
     }
   },
   {
     "q": {
-      "en": "What does an alignment score mean?",
-      "ar": "ماذا تعني درجة التوافق؟"
+      "en": "How do I play?",
+      "ar": "كيف ألعب؟"
     },
     "a": {
-      "en": "It is an app-displayed indicator, not a promise that a role is a perfect match or that an application will succeed.",
-      "ar": "مؤشر يعرضه التطبيق، وليس ضماناً بأن الوظيفة مناسبة تماماً أو بأن طلب التوظيف سينجح."
+      "en": "Swipe or swap adjacent fruits on the 8x8 board. Match three or more identical fruits in a row or column to clear them.",
+      "ar": "حرّك أو بدّل الفواكه المتجاورة على لوحة 8×8. طابق ثلاثة عناصر متشابهة أو أكثر في صف أو عمود لإزالتها."
     }
   },
   {
     "q": {
-      "en": "What are the intelligence metrics?",
-      "ar": "ما المقصود بمؤشرات الذكاء؟"
+      "en": "What happens when I make a match?",
+      "ar": "ماذا يحدث عند تحقيق مطابقة؟"
     },
     "a": {
-      "en": "Screens show derived indicators such as data completeness, post freshness, uniqueness and competition, plus detected capabilities and requisites. They are estimates.",
-      "ar": "تعرض الشاشات مؤشرات مستنتجة مثل اكتمال البيانات والحداثة والتفرد والمنافسة والمهارات والمتطلبات. وهي تقديرات."
+      "en": "Matched fruit clears from the board, new pieces refill the spaces and further cascades may create additional matches.",
+      "ar": "تُزال الفواكه المتطابقة من اللوحة، وتملأ قطع جديدة الفراغات، وقد تؤدي السلاسل إلى مطابقات إضافية."
     }
   },
   {
     "q": {
-      "en": "Can I organize opportunities?",
-      "ar": "هل يمكنني تنظيم الفرص؟"
+      "en": "Which fruits can I match?",
+      "ar": "ما أنواع الفواكه الموجودة؟"
     },
     "a": {
-      "en": "Yes. Collections include examples such as Remote Hub, Elite Leap and My Watchlist.",
-      "ar": "نعم. تشمل أمثلة المجموعات Remote Hub وElite Leap وMy Watchlist."
+      "en": "The game includes a variety of fruit pieces such as apples, bananas, oranges, grapes, watermelon, lemon, cherry, kiwi, mango and pineapple.",
+      "ar": "تضم اللعبة أنواعاً متعددة مثل التفاح والموز والبرتقال والعنب والبطيخ والليمون والكرز والكيوي والمانجو والأناناس."
     }
   },
   {
     "q": {
-      "en": "Where can I install Job Connect?",
-      "ar": "من أين أثبّت Job Connect؟"
+      "en": "What are combos?",
+      "ar": "ما المقصود بالتركيبات؟"
     },
     "a": {
-      "en": "Install the Android app from its official Google Play listing.",
-      "ar": "ثبّت تطبيق Android من صفحته الرسمية على Google Play."
+      "en": "Combos are chains of matches that can boost your score and make a board clear more satisfying.",
+      "ar": "التركيبات هي سلاسل من المطابقات المتتابعة التي تساعد على رفع النتيجة وجعل إزالة القطع أكثر متعة."
     }
   },
   {
     "q": {
-      "en": "Does Job Connect contain ads?",
-      "ar": "هل يحتوي Job Connect على إعلانات؟"
+      "en": "Can I earn coins?",
+      "ar": "هل يمكنني جمع العملات؟"
     },
     "a": {
-      "en": "The Google Play listing identifies the app as containing ads.",
-      "ar": "توضح صفحة Google Play أن التطبيق يحتوي على إعلانات."
+      "en": "Yes. Gameplay can reward coins that contribute to your in-game progress.",
+      "ar": "نعم. يمكنك الحصول على عملات من خلال اللعب والاستفادة منها في تقدمك داخل اللعبة."
     }
   },
   {
     "q": {
-      "en": "Does Job Connect apply to jobs for me?",
-      "ar": "هل يتقدم Job Connect إلى الوظائف نيابةً عني؟"
+      "en": "What is XP?",
+      "ar": "ما هي نقاط XP؟"
     },
     "a": {
-      "en": "No. Job Connect helps you discover and review opportunities. Follow the employer's official application instructions to apply.",
-      "ar": "لا. يساعدك Job Connect على اكتشاف الفرص ومراجعتها. اتبع تعليمات التقديم الرسمية لدى صاحب العمل لإرسال طلبك."
+      "en": "XP is experience earned during play and used to track your progression through the game.",
+      "ar": "هي نقاط خبرة تكتسبها أثناء اللعب وتُستخدم لمتابعة تقدمك في اللعبة."
     }
   },
   {
     "q": {
-      "en": "Does an opportunity indicator guarantee a successful application?",
-      "ar": "هل تضمن مؤشرات الفرصة نجاح طلب التوظيف؟"
+      "en": "Does Palace Match have different modes?",
+      "ar": "هل تتوفر أنماط لعب مختلفة؟"
     },
     "a": {
-      "en": "No. Alignment, freshness and intelligence indicators are estimates that support your review. They do not predict hiring decisions or guarantee an interview.",
-      "ar": "لا. مؤشرات التوافق والحداثة والذكاء تقديرات تساعدك على المراجعة، ولا تتنبأ بقرارات التوظيف أو تضمن مقابلة."
+      "en": "Yes. You can play limited-move rounds for a focused challenge or choose endless mode for relaxed play.",
+      "ar": "نعم. يمكنك خوض جولات بتحدي الحركات المحدودة أو اختيار النمط اللامتناهي للعب الهادئ."
     }
   },
   {
     "q": {
-      "en": "How can I check whether a job listing is genuine?",
-      "ar": "كيف أتحقق من أن إعلان الوظيفة حقيقي؟"
+      "en": "Is Palace Match suitable for quick sessions?",
+      "ar": "هل تناسب اللعبة الجلسات القصيرة؟"
     },
     "a": {
-      "en": "Find the employer's official website independently, compare the job details and application domain, and be cautious of requests for money, passwords or verification codes.",
-      "ar": "ابحث بنفسك عن الموقع الرسمي لصاحب العمل، وقارن تفاصيل الوظيفة ونطاق التقديم، واحذر طلبات المال أو كلمات المرور أو رموز التحقق."
+      "en": "The match-3 board and simple swipe controls make it easy to start a casual puzzle session.",
+      "ar": "تجعل لوحة المطابقة وعناصر التحكم البسيطة بدء جلسة ألغاز سريعة أمراً سهلاً."
     }
   },
   {
     "q": {
-      "en": "Are all jobs remote or available in every country?",
-      "ar": "هل جميع الوظائف عن بُعد أو متاحة في كل الدول؟"
+      "en": "Does Palace Match contain ads?",
+      "ar": "هل تحتوي Palace Match على إعلانات؟"
     },
     "a": {
-      "en": "No. Work location and country eligibility depend on each employer and listing. Check the original vacancy for geographic restrictions and remote-work terms.",
-      "ar": "لا. يعتمد موقع العمل وأهلية الدول على كل صاحب عمل وإعلان. راجع الإعلان الأصلي لمعرفة القيود الجغرافية وشروط العمل عن بُعد."
+      "en": "The Google Play listing identifies Palace Match as containing ads.",
+      "ar": "توضح صفحة Google Play أن لعبة Palace Match تحتوي على إعلانات."
     }
   },
   {
     "q": {
-      "en": "Why might a job listing have no salary information?",
-      "ar": "لماذا قد لا يتضمن إعلان الوظيفة معلومات عن الراتب؟"
+      "en": "Can I adjust sound and haptics?",
+      "ar": "هل يمكنني ضبط الصوت والاهتزاز؟"
     },
     "a": {
-      "en": "Some employers do not publish compensation details. Treat the missing information as a question to clarify with the employer before proceeding.",
-      "ar": "لا ينشر بعض أصحاب العمل تفاصيل التعويض. اعتبر غيابها نقطة تحتاج إلى استيضاح من صاحب العمل قبل المتابعة."
+      "en": "The game includes comfort settings for sound, music and haptics.",
+      "ar": "تتضمن اللعبة إعدادات للتحكم في الصوت والموسيقى والاهتزازات اللمسية."
     }
   },
   {
     "q": {
-      "en": "Can I install Job Connect outside Google Play?",
-      "ar": "هل يمكنني تثبيت Job Connect من خارج Google Play؟"
+      "en": "Where can I install Palace Match?",
+      "ar": "من أين أثبّت Palace Match؟"
     },
     "a": {
-      "en": "For the safest official installation route, use the Job Connect listing on Google Play linked from this website.",
-      "ar": "للحصول على مسار التثبيت الرسمي الأكثر أماناً، استخدم صفحة Job Connect على Google Play المرتبطة من هذا الموقع."
+      "en": "Install the official Android game from its Google Play listing.",
+      "ar": "ثبّت اللعبة الرسمية لنظام Android من صفحتها على Google Play."
     }
   }
 ]

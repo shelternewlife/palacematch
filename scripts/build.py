@@ -15,50 +15,50 @@ GA_MEASUREMENT_ID = APP["ga4_measurement_id"]
 
 TEXT = {
     "en": {
-        "about": "About Job Connect",
+        "about": "About Palace Match",
         "skip_to_content": "Skip to main content",
         "features": "Explore the features",
         "faq": "Frequently asked questions",
         "download_nav": "Download",
-        "download_title": "Download Job Connect for Android",
-        "download_intro": "Get the official Job Connect Android app from Google Play and start exploring job opportunities, useful context and personal collections.",
+        "download_title": "Download Palace Match for Android",
+        "download_intro": "Get the official Palace Match Android app from Google Play and start exploring job opportunities, useful context and personal collections.",
         "download_steps_title": "Install in three simple steps",
         "download_step_1": "Open the official Google Play listing.",
         "download_step_2": "Tap Install on your Android device.",
-        "download_step_3": "Open Job Connect and explore opportunities.",
+        "download_step_3": "Open Palace Match and explore opportunities.",
         "download_note": "For your security, install the app only through its official Google Play listing.",
         "download_facts": "App information",
         "platform": "Platform",
         "developer": "Developer",
         "package": "Package ID",
-        "home": "Discover your next opportunity",
+        "home": "Match colorful fruit and rise through the palace",
         "cta": "Open on Google Play",
-        "tag": "JOB OPPORTUNITY DISCOVERY",
+        "tag": "FRUIT MATCH-3 PUZZLE",
         "gallery": "A look inside the app",
         "gallery_intro": "Real screenshots from the Google Play listing.",
-        "download": "Get started with Job Connect",
+        "download": "Get started with Palace Match",
         "privacy": "Privacy policy",
         "support": "Support",
-        "about_intro": "Learn what Job Connect is designed to help you discover and organize.",
-        "features_intro": "Explore the discovery and organization capabilities described for Job Connect.",
-        "faq_intro": "Answers to common questions about Job Connect.",
+        "about_intro": "Learn about the fruit match-3 puzzle gameplay, modes and progression in Palace Match.",
+        "features_intro": "Explore fruit matching, combos, coins, XP progression and game modes in Palace Match.",
+        "faq_intro": "Answers to common questions about playing Palace Match.",
         "language": "Choose your language",
         "english": "English",
         "arabic": "العربية",
-        "home_intro": "Explore job opportunities, review useful context and keep track of roles that matter to you.",
+        "home_intro": "Swap fruit, create combos, collect coins and progress through palace levels.",
     },
     "ar": {
-        "about": "عن Job Connect",
+        "about": "عن Palace Match",
         "skip_to_content": "تجاوز إلى المحتوى الرئيسي",
         "features": "استكشف المزايا",
         "faq": "الأسئلة الشائعة",
         "download_nav": "تنزيل التطبيق",
-        "download_title": "تنزيل Job Connect لنظام Android",
-        "download_intro": "احصل على تطبيق Job Connect الرسمي لنظام Android من Google Play، وابدأ باستكشاف فرص العمل وسياقها المفيد ومجموعاتك الشخصية.",
+        "download_title": "تنزيل Palace Match لنظام Android",
+        "download_intro": "احصل على تطبيق Palace Match الرسمي لنظام Android من Google Play، وابدأ باستكشاف فرص العمل وسياقها المفيد ومجموعاتك الشخصية.",
         "download_steps_title": "ثبّت التطبيق في ثلاث خطوات بسيطة",
         "download_step_1": "افتح صفحة التطبيق الرسمية على Google Play.",
         "download_step_2": "اضغط على تثبيت من جهاز Android.",
-        "download_step_3": "افتح Job Connect وابدأ استكشاف الفرص.",
+        "download_step_3": "افتح Palace Match وابدأ استكشاف الفرص.",
         "download_note": "لحمايتك، ثبّت التطبيق من صفحته الرسمية على Google Play فقط.",
         "download_facts": "معلومات التطبيق",
         "platform": "النظام",
@@ -69,12 +69,12 @@ TEXT = {
         "tag": "اكتشاف فرص العمل",
         "gallery": "نظرة إلى واجهة التطبيق",
         "gallery_intro": "لقطات شاشة فعلية منشورة في صفحة التطبيق على Google Play.",
-        "download": "ابدأ مع Job Connect",
+        "download": "ابدأ مع Palace Match",
         "privacy": "سياسة الخصوصية",
         "support": "الدعم",
-        "about_intro": "تعرّف على Job Connect وما صُمم لمساعدتك على اكتشافه وتنظيمه.",
-        "features_intro": "استكشف إمكانات الاكتشاف والتنظيم الموضحة لتطبيق Job Connect.",
-        "faq_intro": "إجابات عن الأسئلة الشائعة حول Job Connect.",
+        "about_intro": "تعرّف على Palace Match وما صُمم لمساعدتك على اكتشافه وتنظيمه.",
+        "features_intro": "استكشف إمكانات الاكتشاف والتنظيم الموضحة لتطبيق Palace Match.",
+        "faq_intro": "إجابات عن الأسئلة الشائعة حول Palace Match.",
         "language": "اختر لغتك",
         "english": "English",
         "arabic": "العربية",
@@ -84,35 +84,35 @@ TEXT = {
 
 PAGE_TITLES = {
     "en": {
-        "home": "Job Search App for Finding Work Opportunities | Job Connect",
-        "about": "Job Connect: About the Job Search and Opportunity Discovery App",
-        "features": "Job Search App Features: Discover, Compare and Organize Jobs | Job Connect",
-        "download": "Download Job Connect: Android Job Search App | Google Play",
-        "faq": "Job Connect FAQ: Job Search, Job Listings and App Features",
+        "home": "Job Search App for Finding Work Opportunities | Palace Match",
+        "about": "Palace Match: About the Job Search and Opportunity Discovery App",
+        "features": "Job Search App Features: Discover, Compare and Organize Jobs | Palace Match",
+        "download": "Download Palace Match: Android Job Search App | Google Play",
+        "faq": "Palace Match FAQ: Job Search, Job Listings and App Features",
     },
     "ar": {
-        "home": "البحث عن عمل واكتشاف الوظائف | Job Connect",
-        "about": "Job Connect: تطبيق للبحث عن عمل واكتشاف الوظائف",
-        "features": "مزايا تطبيق Job Connect لاكتشاف فرص العمل وتنظيمها",
-        "download": "تنزيل تطبيق Job Connect للبحث عن عمل | Google Play",
-        "faq": "الأسئلة الشائعة حول Job Connect والبحث عن الوظائف",
+        "home": "البحث عن عمل واكتشاف الوظائف | Palace Match",
+        "about": "Palace Match: تطبيق للبحث عن عمل واكتشاف الوظائف",
+        "features": "مزايا تطبيق Palace Match لاكتشاف فرص العمل وتنظيمها",
+        "download": "تنزيل تطبيق Palace Match للبحث عن عمل | Google Play",
+        "faq": "الأسئلة الشائعة حول Palace Match والبحث عن الوظائف",
     },
 }
 
 PAGE_DESCRIPTIONS = {
     "en": {
-        "home": "Explore job opportunities, compare role details and organize jobs to follow with Job Connect, an Android job search app.",
-        "about": "Learn how the Job Connect Android app helps you discover job listings, review opportunity details and organize roles to follow.",
+        "home": "Explore job opportunities, compare role details and organize jobs to follow with Palace Match, an Android job search app.",
+        "about": "Learn how the Palace Match Android app helps you discover job listings, review opportunity details and organize roles to follow.",
         "features": "Explore job search tools for discovering fresh opportunities, comparing job details, reviewing indicators and organizing job listings.",
-        "download": "Download Job Connect, an Android job search app for discovering and organizing job opportunities. Install it from Google Play.",
-        "faq": "Get answers about job listings, opportunity indicators, personal collections and downloading the Job Connect Android app.",
+        "download": "Download Palace Match, an Android job search app for discovering and organizing job opportunities. Install it from Google Play.",
+        "faq": "Get answers about job listings, opportunity indicators, personal collections and downloading the Palace Match Android app.",
     },
     "ar": {
-        "home": "اكتشف فرص العمل والوظائف الشاغرة، وراجع تفاصيلها ونظّم الفرص التي تريد متابعتها باستخدام تطبيق Job Connect لنظام Android.",
-        "about": "تعرّف على تطبيق Job Connect للبحث عن عمل واكتشاف إعلانات الوظائف ومراجعة تفاصيل الفرص وتنظيمها.",
+        "home": "اكتشف فرص العمل والوظائف الشاغرة، وراجع تفاصيلها ونظّم الفرص التي تريد متابعتها باستخدام تطبيق Palace Match لنظام Android.",
+        "about": "تعرّف على تطبيق Palace Match للبحث عن عمل واكتشاف إعلانات الوظائف ومراجعة تفاصيل الفرص وتنظيمها.",
         "features": "اكتشف أدوات البحث عن وظائف: متابعة الفرص الحديثة ومقارنة تفاصيل الوظائف ومراجعة المؤشرات وتنظيم إعلانات العمل.",
-        "download": "نزّل تطبيق Job Connect للبحث عن عمل واكتشاف فرص العمل على Android من صفحة Google Play الرسمية.",
-        "faq": "إجابات عن البحث عن وظائف وإعلانات العمل ومؤشرات الفرص والمجموعات وتنزيل تطبيق Job Connect.",
+        "download": "نزّل تطبيق Palace Match للبحث عن عمل واكتشاف فرص العمل على Android من صفحة Google Play الرسمية.",
+        "faq": "إجابات عن البحث عن وظائف وإعلانات العمل ومؤشرات الفرص والمجموعات وتنزيل تطبيق Palace Match.",
     },
 }
 
@@ -231,7 +231,7 @@ def render_gallery(lang):
 def render_download(lang):
     t = TEXT[lang]
     return (
-        f'<section class="download-hero"><div><div class="tag">JOB CONNECT · ANDROID</div>'
+        f'<section class="download-hero"><div><div class="tag">PALACE MATCH · ANDROID</div>'
         f'<h1>{t["download_title"]}</h1><p class="lead">{esc(t["download_intro"])}</p>'
         f'<a class="btn" href="{esc(APP["google_play_url"])}" '
         f'target="_blank" rel="noopener noreferrer" aria-label="{esc(t["cta"])}" '
@@ -272,7 +272,7 @@ def render_content(lang, section):
         )
     if section == "about":
         return (
-            f'<section class="section"><div class="tag">JOB CONNECT</div>'
+            f'<section class="section"><div class="tag">PALACE MATCH</div>'
             f'<h1>{t["about"]}</h1><p class="lead">{esc(APP["description"][lang])}</p>'
             f'<p>{esc(t["about_intro"])}</p>'
             f'<p><strong>{esc(APP["developer"])}</strong></p>'
@@ -281,7 +281,7 @@ def render_content(lang, section):
         )
     if section == "features":
         return (
-            f'<section class="section"><div class="tag">JOB CONNECT · ANDROID</div>'
+            f'<section class="section"><div class="tag">PALACE MATCH · ANDROID</div>'
             f'<h1>{t["features"]}</h1><p class="lead">{t["features_intro"]}</p>'
             f'{render_features(lang)}'
             f'<section class="section end"><h2>{t["download"]}</h2>'
@@ -293,7 +293,7 @@ def render_content(lang, section):
         return render_download(lang)
     if section == "faq":
         return (
-            f'<section class="section"><div class="tag">JOB CONNECT</div>'
+            f'<section class="section"><div class="tag">PALACE MATCH</div>'
             f'<h1>{t["faq"]}</h1><p class="lead">{t["faq_intro"]}</p>'
             f'{render_faq(lang)}</section>'
             f'<section class="section end"><h2>{t["download"]}</h2>'
@@ -316,7 +316,7 @@ def render_page(lang, section):
     software = {
         "@type": "SoftwareApplication", "@id": f"{BASE_URL}/#softwareapplication",
         "name": APP["name"], "operatingSystem": "Android",
-        "applicationCategory": "BusinessApplication",
+        "applicationCategory": "GameApplication",
         "description": APP["description"][lang],
         "downloadUrl": APP["google_play_url"], "installUrl": APP["google_play_url"],
         "url": canonical, "image": SCREENSHOTS[0]["src"],
@@ -368,7 +368,7 @@ def render_page(lang, section):
 <a class="skip-link" href="#main-content">{t["skip_to_content"]}</a>
 {render_header(lang, section)}
 <main id="main-content">{content}</main>
-<footer><span>© DevImpact · JOB CONNECT</span>
+<footer><span>© DevImpact · PALACE MATCH</span>
 <span><a href="{esc(APP["privacy_policy_url"])}">{t["privacy"]}</a> ·
 <a href="mailto:{esc(APP["support_email"])}">{t["support"]}</a></span></footer>
 </body>
@@ -383,12 +383,12 @@ def render_language_root():
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="google-site-verification" content="8mOiNMu4Tn477yFaR-IWrNQGhdqH1TpF6NKKoN94Oms">
 <meta name="robots" content="noindex,follow">
-<title>Job Connect</title>
+<title>Palace Match</title>
 <link rel="canonical" href="{target}">
 <meta http-equiv="refresh" content="0; url={target}">
 <script>window.location.replace("{target}");</script>
 </head>
-<body><p><a href="{target}">Continue to Job Connect</a></p></body>
+<body><p><a href="{target}">Continue to Palace Match</a></p></body>
 </html>'''
 
 def write(relative_path, content):
@@ -432,7 +432,7 @@ def main():
     sitemap_txt = "\n".join(url for url, _, _ in sitemap_entries) + "\n"
     write(pathlib.Path("sitemap.txt"), sitemap_txt)
     write(pathlib.Path("llms.txt"), (
-        f"# Job Connect\n\n{APP['description']['en']}\n\n"
+        f"# Palace Match\n\n{APP['description']['en']}\n\n"
         f"- Google Play: {APP['google_play_url']}\n"
         f"- English: {page_url('en')}\n- Arabic: {page_url('ar')}\n"
     ))
