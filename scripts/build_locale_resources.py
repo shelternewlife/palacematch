@@ -64,19 +64,19 @@ CONTENT = {
         "language_name": "Français (Canada)",
         "nav": {"tips": "Conseils", "blog": "Blogue", "guide": "Guide", "comparison": "Comparer"},
         "pages": {
-            "tips": ("Conseils pour la jeu de puzzle fruité | Palace Match", "Des conseils pratiques pour examiner les possibilités, vérifier les offres et organiser vos prochaines étapes.", "Conseils pour la jeu de puzzle fruité", "Définissez une recherche ciblée, vérifiez l’offre originale et utilisez les indicateurs comme contexte, jamais comme garantie.", [
-                ("Ciblez votre recherche", "Choisissez les postes et les priorités qui correspondent à vos objectifs pour évaluer les possibilités avec méthode.", "guide"),
-                ("Vérifiez chaque offre", "Consultez la source originale pour confirmer l’employeur, les exigences, le lieu et les modalités de candidature.", "blog"),
-                ("Interprétez les indicateurs avec prudence", "La fraîcheur, la correspondance et la concurrence sont des indices utiles, pas des promesses.", "comparison")]),
-            "blog": ("Blogue et ressources jeu | Palace Match", "Des ressources Palace Match : conseils pratiques, guide d’utilisation et comparaison des méthodes de recherche.", "Ressources jeu Palace Match", "Consultez des ressources pratiques pour organiser votre jeu de puzzle fruité et examiner les possibilités avec discernement.", [
+            "tips": ("Conseils sur les puzzles de fruits | Palace Match", "Des conseils pratiques pour associer les fruits, créer des combos et progresser dans les niveaux du palais.", "Conseils sur les puzzles de fruits", "Échangez les fruits voisins, associez-en trois ou plus et observez les cascades pour préparer votre prochain coup.", [
+                ("Ciblez votre recherche", "Repérez les associations possibles sur le plateau et choisissez les coups qui peuvent déclencher de nouvelles cascades.", "guide"),
+                ("Créez des combos", "Enchaînez les associations pour augmenter votre score et dégager davantage de cases.", "blog"),
+                ("Progressez à chaque partie", "Gagnez des pièces et des XP au fil des parties pour avancer dans les niveaux du palais.", "comparison")]),
+            "blog": ("Blogue Palace Match : puzzles de fruits | Palace Match", "Des ressources Palace Match : conseils de jeu, guide des fonctionnalités et explications des modes.", "Ressources jeu Palace Match", "Découvrez des conseils pour les puzzles de fruits, les combos et la progression dans Palace Match.", [
                 ("Conseils de jeu de puzzle fruité", "Des habitudes utiles pour évaluer les possibilités et protéger votre temps et vos renseignements.", "tips"),
                 ("Guide d’utilisation", "Un parcours simple pour découvrir, examiner et organiser les possibilités avec Palace Match.", "guide"),
                 ("Comparer les méthodes", "Comprenez comment une application de découverte complète les méthodes traditionnelles de recherche.", "comparison")]),
-            "guide": ("Guide d’utilisation de Palace Match | Android", "Apprenez à découvrir des possibilités, à examiner leur contexte et à organiser les postes avec Palace Match.", "Guide d’utilisation de Palace Match", "Suivez un parcours simple pour découvrir des possibilités, examiner les détails et retrouver les postes à suivre.", [
+            "guide": ("Guide Palace Match : jouer et progresser | Android", "Apprenez à associer des fruits, déclencher des cascades, gagner des pièces et progresser avec Palace Match.", "Guide d’utilisation de Palace Match", "Suivez un parcours simple pour maîtriser les associations de fruits, les combos et les modes de jeu.", [
                 ("Découvrir des possibilités", "Explorez l’écran de découverte et repérez les postes qui méritent un examen plus approfondi.", "tips"),
                 ("Examiner les détails", "Lisez les responsabilités et les exigences, puis vérifiez les renseignements importants auprès de l’employeur.", "blog"),
                 ("Organiser votre recherche", "Utilisez les collections personnelles pour regrouper les possibilités à consulter de nouveau.", "comparison")]),
-            "comparison": ("Comparer les méthodes de jeu de puzzle fruité | Palace Match", "Une comparaison qualitative entre la découverte dans une application et les méthodes traditionnelles de jeu de puzzle fruité.", "Comparer les méthodes de jeu de puzzle fruité", "Découvrez comment une application de découverte peut vous aider et quelles informations doivent toujours être vérifiées.", [
+            "comparison": ("Comparer les modes de jeu Palace Match | Puzzle de fruits", "Découvrez les différences entre les parties à coups limités et le mode sans fin de Palace Match.", "Comparer les méthodes de jeu de puzzle fruité", "Choisissez le mode qui convient à votre rythme : défi à coups limités ou associations sans fin.", [
                 ("Repérer des possibilités", "Un fil de découverte dédié peut réduire les recherches manuelles sur plusieurs sources.", "guide"),
                 ("Examiner le contexte", "Les indicateurs ajoutent du contexte, mais l’offre originale de l’employeur reste la source à vérifier.", "tips"),
                 ("Organiser les postes", "Les collections personnelles regroupent les possibilités à consulter et à suivre plus tard.", "blog")])
@@ -129,7 +129,7 @@ def render_page(locale, tail, data):
         "features": "Fonctionnalités" if language == "fr" else "Features",
         "more": "En savoir plus" if language == "fr" else "Explore this resource",
         "skip": "Passer au contenu principal" if language == "fr" else "Skip to main content",
-        "resource": "RESSOURCES CARRIÈRE" if language == "fr" else "CAREER RESOURCES",
+        "resource": "RESSOURCES DE JEU" if language == "fr" else "FRUIT PUZZLE RESOURCES",
         "home": "Retour à l’accueil" if language == "fr" else "Back to the home page",
         "privacy": "Politique de confidentialité" if language == "fr" else "Privacy policy",
         "support": "Soutien" if language == "fr" else "Support",
@@ -203,16 +203,16 @@ def render_page(locale, tail, data):
 </head>
 <body data-page-section="{tail}">
 <a class="skip-link" href="#main-content">{esc(labels["skip"])}</a>
-<header class="standard-header"><div class="header-main">{render_locale_flags(locale, tail)}<a class="brand" href="{BASE}/{slug}/">JOB <b>CONNECT</b></a>
+<header class="standard-header"><div class="header-main">{render_locale_flags(locale, tail)}<a class="brand" href="{BASE}/{slug}/">PALACE <b>MATCH</b></a>
 <nav aria-label="{esc(labels["nav_aria"])}">{nav}</nav></div></header>
 <main id="main-content"><section class="section resource-hub">
-<div class="tag">JOB CONNECT · {esc(labels["resource"])}</div>
+<div class="tag">PALACE MATCH · {esc(labels["resource"])}</div>
 <h1>{esc(heading)}</h1><p class="lead">{esc(intro)}</p>
 <div class="grid">{cards_html}</div>
 <p class="locale-links">{locale_links}</p>
 <p><a href="{BASE}/{slug}/">{esc(labels["home"])}</a></p>
 </section></main>
-<footer><span>© DevImpact · JOB CONNECT</span><span><a href="{esc(APP["privacy_policy_url"])}">{esc(labels["privacy"])}</a> · <a href="mailto:{esc(APP["support_email"])}">{esc(labels["support"])}</a></span></footer>
+<footer><span>© DevImpact · PALACE MATCH</span><span><a href="{esc(APP["privacy_policy_url"])}">{esc(labels["privacy"])}</a> · <a href="mailto:{esc(APP["support_email"])}">{esc(labels["support"])}</a></span></footer>
 </body>
 </html>'''
 

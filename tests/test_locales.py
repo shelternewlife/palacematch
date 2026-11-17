@@ -82,7 +82,7 @@ class MarketLocaleTests(unittest.TestCase):
                 self.assertNotIn(term.casefold(), folded, f"Unsupported keyword claim in {locale}: {term}")
         self.assertIn("fruit match 3 game", " ".join(clusters["en-US"]["primary"]))
         self.assertIn("fruit match 3 game Canada", " ".join(clusters["en-CA"]["primary"]))
-        self.assertIn("application de recherche d’emploi", " ".join(clusters["fr-CA"]["primary"]))
+        self.assertIn("jeu de puzzle de fruits", " ".join(clusters["fr-CA"]["primary"]))
 
     def test_only_explicitly_published_locales_are_generated(self):
         expected = {x.lower() for x in STRATEGY["published_locales"]}
@@ -152,7 +152,7 @@ class MarketLocaleTests(unittest.TestCase):
             source = (DIST / locale.lower() / "index.html").read_text(encoding="utf-8")
             self.assertIn(f'<html lang="{locale}"', source)
             self.assertIn("Découvrez", source)
-            self.assertIn("Application de recherche d’emploi", source)
+            self.assertIn("Jeu de puzzle de fruits", source)
             self.assertIn("Foire aux questions", (DIST / locale.lower() / "faq" / "index.html").read_text(encoding="utf-8"))
             self.assertNotIn("Discover your next opportunity", source)
             self.assertNotIn("Frequently asked questions", source)

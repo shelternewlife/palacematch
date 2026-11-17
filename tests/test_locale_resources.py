@@ -137,10 +137,10 @@ class LocalizedResourceRouteTests(unittest.TestCase):
 
     def test_french_hubs_have_french_titles_and_content(self):
         expected_phrases = {
-            "tips": "Conseils pour le jeu de puzzle fruité",
-            "blog": "Blogue et ressources jeu",
-            "guide": "Guide d’utilisation de Palace Match",
-            "comparison": "Comparer les méthodes de jeu de puzzle fruité",
+            "tips": "Conseils sur les puzzles de fruits",
+            "blog": "Blogue Palace Match : puzzles de fruits",
+            "guide": "Guide Palace Match : jouer et progresser",
+            "comparison": "Comparer les modes de jeu Palace Match",
         }
         for tail in HUBS:
             source = (DIST / "fr-ca" / tail / "index.html").read_text(encoding="utf-8")
